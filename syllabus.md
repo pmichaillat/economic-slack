@@ -1,5 +1,5 @@
 ECON 2800  
-Spring 2022  
+Fall 2022  
 Prof. Pascal Michaillat  
 Brown University
 
@@ -11,7 +11,7 @@ Brown University
 
 ### Course description
 
-ECON2800 covers research topics related to macroeconomic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it will also present some of the evidence supporting the assumptions introduced in the models.
+ECON2800 covers research topics related to macroeconomic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
 
 The course reviews basic facts about slack, present models used to describe slack, and discuss policies used to tackle slack. It tries to answer several questions: 
 
@@ -44,41 +44,48 @@ By the end of the course, you will have experienced all the stages of a research
 
 ---
 
-### Teaching times
+### Teaching times and locations
 
-+ Class: Wednesday, 1:00pm–3:20pm, in room 016, 8 Fones Alley
-+ Office hours: Tuesday, 12pm-1pm, in room 201, 70 Waterman Street
++ Class: 
+    * Wednesday, 1:00pm–3:20pm
+    * Room 016, 8 Fones Alley
++ Office hours: 
+    * Tuesday, 12pm-1pm
+    * Room 201, 70 Waterman Street
 
 ---
 
 ### Course resources
 
 + The lecture videos and readings are hosted at https://www.pascalmichaillat.org/t5.html.
-+ The course material (syllabus, quizzes and solutions, research resources) is available at https://github.com/pascalmichaillat/macroeconomic-slack. 
++ The course material (syllabus, quizzes, research resources) is available at https://github.com/pascalmichaillat/macroeconomic-slack. 
 
 ---
 
 ### Classes
 
-This is a flipped course. You will watch lectures and read articles at home, and we will discuss the material in class and put it to practice.  Classes will have two parts. During the first part, we will go over the lecture material and readings. We will discuss anything that is unclear and answer all questions. To put the material from lecture into practice, we will solve multiple-choice questions. During the second part of class, you will work on a research project.
+This is a flipped course. You will watch lectures and read articles at home, and we will discuss the material in class and put it to practice.  Classes will have two parts:
+
++ During the first part of the class, we will go over the lecture material and readings. We will discuss anything that is unclear and answer all questions. To put the material from lecture into practice, we will solve multiple-choice questions. 
++ During the second part of class, you will work on a research project. The second part will involve both development of the project and presentation of various intermediate steps.
 
 ---
 
 ### Lectures and readings
 
-The lecture videos and required readings are available at https://www.pascalmichaillat.org/t5.html. 
+Before each weekly meeting you will have to watch lecture videos and go over required readings. The lecture videos and required readings are available at https://www.pascalmichaillat.org/t5.html. 
   
-+ Before Wednesday 14 September: watch lecture videos and go over required readings in section "Evolution of Business-Cycle Models"
-+ Before Wednesday 21 September: watch lecture videos and go over required readings in section "Matching Function"
-+ Before Wednesday 28 September: watch lecture videos and go over required readings in section "Price and Wage Rigidities"
-+ Before Wednesday 5 October: watch lecture videos and go over required readings in section "Static Model of Slack"
-+ Before Wednesday 12 October: watch lecture videos and go over required readings in section "Dynamic Model of Slack"
-+ Before Wednesday 19 October: watch lecture videos and go over required readings in section "Model of Idleness and Unemployment"
-+ Before Wednesday 26 October: watch lecture videos and go over required readings in section "Efficiency and Inefficiency"
-+ Before Wednesday 2 November: watch lecture videos and go over required readings in section "Business Cycles"
-+ Before Wednesday 9 November: watch lecture videos and go over required readings in section "Monetary Policy"
-+ Before Wednesday 16 November: watch lecture videos and go over required readings in section "Fiscal Policy"
-+ Before Wednesday 30 November: watch lecture videos and go over required readings in section "Multipliers"
++ Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
++ Before Wednesday 21 September: videos & readings in section "Matching Function"
++ Before Wednesday 28 September: videos & readings in section "Price and Wage Rigidities"
++ Before Wednesday 5 October: videos & readings in section "Static Model of Slack"
++ Before Wednesday 12 October: videos & readings in section "Dynamic Model of Slack"
++ Before Wednesday 19 October: videos & readings in section "Model of Idleness and Unemployment"
++ Before Wednesday 26 October: videos & readings in section "Efficiency and Inefficiency"
++ Before Wednesday 2 November: videos & readings in section "Business Cycles"
++ Before Wednesday 9 November: videos & readings in section "Monetary Policy"
++ Before Wednesday 16 November: videos & readings in section "Fiscal Policy"
++ Before Wednesday 30 November: videos & readings in section "Multipliers"
 
 The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. 
 
@@ -94,26 +101,25 @@ Supplemental readings are also be provided in each section. These readings provi
 One of the main objectives of the course is to produce a short research paper on topics related to macroeconomic slack. A good research paper should do the following:
 
 + Develop a well-posed research question
-+ Answer the research question using a combination of theory, simulations, and empirics
++ Answer the research question using a combination of theory, simulations, and empirical analysis
 + Position the paper in the prior literature
 
 #### Key dates for the development of the paper
 
 + Wednesday 26 October: class presentation of the project outline
-+ Wednesday 16 November: class presentation of preliminary results
-+ Wednesday 7 December: class presentation of the final results
++ Wednesday 16 November: class presentation of early results
++ Wednesday 7 December: class presentation of final results
 + Wednesday 14 December: final paper due
 
 #### Format of the paper
 
 Your research paper should be short and follow the *AER: Insights* guidelines:
 
-+ Manuscripts must be less than 6,000 words, with a maximum of five exhibits (figures or tables). The wordcount applies to the main body of the text, but excludes the title page, reference list, and exhibits.
++ Manuscripts must be less than 6,000 words, with a maximum of five exhibits (figures or tables). The wordcount applies to the main body of the text, but excludes title page, reference list, and exhibits.
 + Manuscripts should contain no more than 5 exhibits (tables and figures). Individual exhibits are limited to one page each.
 + Manuscripts must include an abstract of 100 or fewer words.
 + Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. For empirical work, the main text should include relevant information about data sources, variable definitions and construction, the estimating equations, and any other information needed to understand and assess each exhibit in the main text. For theoretical work, proofs should typically be contained in the paper. This is the case when the proof itself provides insight into the paper's argument or when the method of proof is innovative.
-+ Manuscripts must be written in LaTeX, compiled to a PDF, and submitted by email to pascalmichaillat@brown.edu. Late work will not be accepted. 
-
++ Manuscripts must be written in LaTeX, compiled to a PDF, and submitted by email to pascalmichaillat@brown.edu.
 
 ---
 
@@ -121,10 +127,10 @@ Your research paper should be short and follow the *AER: Insights* guidelines:
 
 Your grade will be based on the quality of the research project and your participation. The contribution to the final grade is as follows:
 
-+ Participation: 20 points. This is a research-intensive course. As such, attendance and participation is key. This portion of your grade will be based on your participation in class, participation in the online discussion portal, and response to the quizzes.
++ Participation: 20 points. This is a research-intensive course. As such, attendance and participation are key. This portion of your grade will be based on your participation in class, participation in the online discussion portal, and response to the quizzes.
 + Research project: 80 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
 
-    - Presentation of paper outline: 10 points
+    - Presentation of project outline: 10 points
     - Presentation of early results: 10 points
     - Presentation of final results: 10 points
     - Final paper: 50 points
@@ -148,4 +154,4 @@ Office hours will be conducted in-person. Office hours are first-come-first-serv
 
 #### Github discussion portal
 
-In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/macroeconomic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently (which emails are notoriously bad at). So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
+In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/macroeconomic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
