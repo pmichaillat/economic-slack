@@ -2,7 +2,11 @@
 
 This repository contains material for ECON2800, a one-semester graduate course on slack in macroeconomics taught by [Pascal Michaillat](https://www.pascalmichaillat.org/) at [Brown University](https://www.brown.edu).
 
-## Overview
+## Course webpage
+
+The course is hosted at https://www.pascalmichaillat.org/t5.html.
+
+## Course overview
 
 The course covers research topics related to macroeconomic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
 
@@ -16,15 +20,15 @@ The course reviews basic facts about slack, present models used to describe slac
 + What happens to slack and policies at the zero lower bound?
 + Does the effectiveness of policies depend on the prevailing amount of slack?
 
-The course is hosted at https://www.pascalmichaillat.org/t5.html.
-
 ## Organization
 
-This is a flipped course. Students watch lecture videos and go over readings at home. The lecture videos and readings are permanently available at https://www.pascalmichaillat.org/t5.html. Class time is used for various activities:
+This is a flipped course. 
 
-+ To discuss lecture and reading material
-+ To put lecture and reading material into practice through multiple-choice questions
-+ To develop a research paper on the topic of macroeconomic slack
++ At home, students watch lecture videos and go over readings at home. The lecture videos and readings are permanently available at https://www.pascalmichaillat.org/t5.html. 
++ Class time is used for various activities:
+	* To discuss lecture and reading material
+	* To put lecture and reading material into practice through multiple-choice questions
+	* To develop a research paper on the topic of macroeconomic slack
 
 ## Material
 
