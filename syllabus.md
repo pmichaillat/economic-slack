@@ -9,6 +9,27 @@ Brown University
 
 ---
 
+### Teaching times and locations
+
++ Class: 
+    * Wednesday, 1:00pm–3:20pm
+    * Room 016, 8 Fones Alley
++ Office hours: 
+    * Tuesday, 12pm-1pm
+    * Room 201, 70 Waterman Street
+
+---
+
+### Instructor
+
++ Pascal Michaillat
++ Associate professor of Economics, Brown University
++ Website: https://www.pascalmichaillat.org/
++ Office: room 201, 70 Waterman Street
++ Email: pascalmichaillat@brown.edu
+
+---
+
 ### Course description
 
 ECON2800 covers research topics related to macroeconomic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
@@ -32,26 +53,6 @@ All of you should be shifting away from learning the results of other peoples' r
 
 By the end of the course, you will have experienced all the stages of a research project and completed a short research paper.
 
----
-
-### Instructor
-
-+ Pascal Michaillat
-+ Associate professor of Economics, Brown University
-+ Room 201, 70 Waterman Street
-+ pascalmichaillat@brown.edu
-+ https://www.pascalmichaillat.org/
-
----
-
-### Teaching times and locations
-
-+ Class: 
-    * Wednesday, 1:00pm–3:20pm
-    * Room 016, 8 Fones Alley
-+ Office hours: 
-    * Tuesday, 12pm-1pm
-    * Room 201, 70 Waterman Street
 
 ---
 
@@ -73,7 +74,7 @@ This is a flipped course. You will watch lectures and read articles at home, and
 
 ### Lectures and readings
 
-Before each weekly meeting you will have to watch lecture videos and go over required readings. The lecture videos and required readings are available at https://www.pascalmichaillat.org/t5.html. 
+Before each weekly meeting you will have to watch [lecture videos](https://www.pascalmichaillat.org/t5.html) and go over [required readings](https://www.pascalmichaillat.org/t5.html).
   
 + Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
 + Before Wednesday 21 September: videos & readings in section "Matching Function"
@@ -89,7 +90,7 @@ Before each weekly meeting you will have to watch lecture videos and go over req
 
 The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. 
 
-Supplemental readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over these supplemental readings as well.
+[Supplemental readings](https://www.pascalmichaillat.org/t5.html) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over these supplemental readings as well.
 
 
 ---
@@ -125,17 +126,15 @@ Your research paper should be short and follow the *AER: Insights* guidelines:
 
 ### Grading
 
-Your grade will be based on the quality of the research project and your participation. The contribution to the final grade is as follows:
+Your grade will be based on the quality of the research project and your participation. The contribution to the total grade of 100 points is as follows:
 
-+ Participation: 20 points. This is a research-intensive course. As such, attendance and participation are key. This portion of your grade will be based on your participation in class, participation in the online discussion portal, and response to the quizzes.
++ Participation: 20 points. This is a research-intensive course. As such, attendance and participation are key. This portion of your grade will be based on your participation in class, response to the quizzes, participation to the [Github discussion portal](https://github.com/pascalmichaillat/macroeconomic-slack/discussions), and general community building.
 + Research project: 80 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
 
     - Presentation of project outline: 10 points
     - Presentation of early results: 10 points
     - Presentation of final results: 10 points
     - Final paper: 50 points
-
-+ Total: 100 points
 
 Letter grades will be based on your total grade, with the following cutoffs:
 
