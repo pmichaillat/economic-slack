@@ -35,8 +35,7 @@ This is a flipped course.
 The repository contains all the material for the course:
 
 + `syllabus.md` - syllabus for the course
-+ `requiredreadings` folder - articles assigned as required readings
-+ `supplementalreadings` folder - articles assigned as supplemental readings
++ `readings` folder - articles assigned as required readings
 + `notes` folder - lectures notes, narrated in the [lecture videos](https://www.pascalmichaillat.org/t5.html)
 + `quizzes` folder - quizzes and their solutions
 
