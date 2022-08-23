@@ -86,7 +86,7 @@ Before each weekly meeting you will have to watch [lecture videos](https://www.p
 + Before Wednesday 2 November: videos & readings in section "Business Cycles"
 + Before Wednesday 9 November: videos & readings in section "Monetary Policy"
 + Before Wednesday 16 November: videos & readings in section "Fiscal Policy"
-+ Before Wednesday 30 November: videos & readings in section "Multipliers"
++ Before Wednesday 30 November: videos & readings in section "Policy Multipliers"
 
 The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. 
 
