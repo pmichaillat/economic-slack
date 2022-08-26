@@ -5,7 +5,7 @@ Brown University
 
 ---
 
-### Slack in Macroeconomics
+### Economic Slack
 
 ---
 
@@ -32,9 +32,7 @@ Brown University
 
 ### Course description
 
-ECON2800 covers research topics related to macroeconomic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
-
-The course reviews basic facts about slack, present models used to describe slack, and discuss policies used to tackle slack. It tries to answer several questions: 
+ECON2800 covers research topics related to economic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course presents models used to describe economic slack and discusses policies used to tackle slack. It tries to answer several questions: 
 
 + Why does slack exist and why do we care about it?
 + Why does slack vary over time? And how is this related to price flexibility or rigidity?
@@ -59,7 +57,7 @@ By the end of the course, you will have experienced all the stages of a research
 ### Course resources
 
 + The lecture videos and readings are hosted at https://www.pascalmichaillat.org/t5.html.
-+ The course material (syllabus, quizzes, research resources) is available at https://github.com/pascalmichaillat/macroeconomic-slack. 
++ The course material (syllabus, quizzes, research resources) is available at https://github.com/pascalmichaillat/economic-slack. 
 
 ---
 
@@ -128,7 +126,7 @@ Your research paper should be short and follow the *AER: Insights* guidelines:
 
 Your grade will be based on the quality of the research project and your participation. The contribution to the total grade of 100 points is as follows:
 
-+ Participation: 20 points. This is a research-intensive course. As such, attendance and participation are key. This portion of your grade will be based on your participation in class, response to the quizzes, participation to the [Github discussion portal](https://github.com/pascalmichaillat/macroeconomic-slack/discussions), and general community building.
++ Participation: 20 points. This is a research-intensive course. As such, attendance and participation are key. This portion of your grade will be based on your participation in class, response to the quizzes, participation to the [Github discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions), and general community building.
 + Research project: 80 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
 
     - Presentation of project outline: 10 points
@@ -153,4 +151,4 @@ Office hours will be conducted in-person. Office hours are first-come-first-serv
 
 #### Github discussion portal
 
-In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/macroeconomic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
+In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
