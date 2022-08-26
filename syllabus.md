@@ -15,7 +15,7 @@ Brown University
     * Wednesday, 1:00pm–3:20pm
     * Room 016, 8 Fones Alley
 + Office hours: 
-    * Tuesday, 12pm-1pm
+    * Tuesday, 12:00pm-1:00pm
     * Room 201, 70 Waterman Street
 
 ---
