@@ -26,7 +26,6 @@ Brown University
 + Associate professor of Economics, Brown University
 + Website: https://www.pascalmichaillat.org/
 + Office: room 201, 70 Waterman Street
-+ Email: pascalmichaillat@brown.edu
 
 ---
 
@@ -57,7 +56,20 @@ By the end of the course, you will have experienced all the stages of a research
 ### Course resources
 
 + The lecture videos and readings are hosted at https://www.pascalmichaillat.org/t5.html.
-+ The course material (syllabus, quizzes, research resources) is available at https://github.com/pascalmichaillat/economic-slack. 
++ The course material (syllabus, quizzes, research resources) is available at https://github.com/pascalmichaillat/economic-slack.
+
+---
+
+### Communication
+
+#### Office hours
+
+Office hours will be conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in lecture and readings, discuss your research project, or talk about any other course-related matters.
+
+#### Github discussion portal
+
+In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
+
 
 ---
 
@@ -140,15 +152,3 @@ Letter grades will be based on your total grade, with the following cutoffs:
 + Between 60/100 and 80/100: B
 + Between 40/100 and 60/100: C
 + Below 40/100: NC
-
----
-
-### Communication
-
-#### Office hours
-
-Office hours will be conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in lecture and readings, discuss your research project, or talk about any other course-related matters.
-
-#### Github discussion portal
-
-In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
