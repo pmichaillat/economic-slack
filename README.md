@@ -1,6 +1,6 @@
-# Slack in Macroeconomics
+# Economic Slack
 
-This repository contains material for ECON2800, a one-semester graduate course on slack in macroeconomics taught by [Pascal Michaillat](https://www.pascalmichaillat.org/) at [Brown University](https://www.brown.edu).
+This repository contains material for ECON2800, a one-semester graduate course on economic slack taught by [Pascal Michaillat](https://www.pascalmichaillat.org/) at [Brown University](https://www.brown.edu).
 
 ## Course webpage
 
@@ -8,9 +8,9 @@ The course is hosted at https://www.pascalmichaillat.org/t5.html.
 
 ## Course overview
 
-The course covers research topics related to macroeconomic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
+The course covers research topics related to economic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
 
-The course reviews basic facts about slack, present models used to describe slack, and discuss policies used to tackle slack. It tries to answer several questions: 
+The course reviews basic facts about slack, present models used to describe economic slack, and discuss policies used to tackle slack. It tries to answer several questions: 
 
 + Why does slack exist and why do we care about it?
 + Why does slack vary over time? And how is this related to price flexibility or rigidity?
