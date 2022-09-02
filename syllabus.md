@@ -66,25 +66,28 @@ By the end of the course, you will have experienced all the stages of a research
 
 Office hours will be conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in lecture and readings, discuss your research project, or talk about any other course-related matters.
 
-#### Github discussion portal
+#### GitHub discussion portal
 
-In addition to office hours, we will communicate through the discussion portal on the course's Github repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
-
+In addition to office hours, we will communicate through the discussion portal on the course's GitHub repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
 
 ---
 
 ### Classes
 
-This is a flipped course. You will watch lectures and read articles at home, and we will discuss the material in class and put it to practice.  Classes will have two parts:
+This is a flipped course. 
 
-+ During the first part of the class, we will go over the lecture material and readings. We will discuss anything that is unclear and answer all questions. To put the material from lecture into practice, we will solve multiple-choice questions. 
-+ During the second part of class, you will work on a research project. The second part will involve both development of the project and presentation of various intermediate steps.
++ At home, you will watch lectures and read articles.
++ Classes time will have three parts:
+
+    1. During the first part of the class, we will discuss the lecture material and readings. To lead the discussion, you will give short presentations that summarize the material from lecture, the required readings, and the supplemental readings. We will discuss anything that is unclear and answer all questions. 
+    2. During the second part, we will put the material from lecture and readings into practice. To do so, we will solve a number of multiple-choice questions.
+    3. During the third part of class, you will work on your research project. This will involve both development of the project and presentation of various intermediate steps.
 
 ---
 
 ### Lectures and readings
 
-Before each weekly meeting you will have to watch [lecture videos](https://www.pascalmichaillat.org/t5.html) and go over [required readings](https://www.pascalmichaillat.org/t5.html).
+At home, before each weekly meeting, you will have to watch [lecture videos](https://www.pascalmichaillat.org/t5.html) and go over [required readings](https://www.pascalmichaillat.org/t5.html).
   
 + Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
 + Before Wednesday 21 September: videos & readings in section "Matching Function"
@@ -100,8 +103,27 @@ Before each weekly meeting you will have to watch [lecture videos](https://www.p
 
 The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. 
 
-[Supplemental readings](https://www.pascalmichaillat.org/t5.html) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over these supplemental readings as well.
+[Supplemental readings](https://www.pascalmichaillat.org/t5.html) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
 
+---
+
+### Summary of the lectures and readings
+
+At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, everyone will give a short presentation that summarizes either the material from lecture or one of the readings.
+
+Each presentation should have five slides with the following structure:
+
+1. What is the research question addressed by the lecture/paper?
+2. How does the material covered in the lecture/paper contribute to the previous literature? Which hole does it fill?
+3. What are the main elements of the answer to the research question?
+4. Illustrate graphically the answer to the research question.
+5. What are the limitations of the answer provided in the lecture/paper? How could the answer be improved?
+
+---
+
+### Quizzes
+
+Quizzes will contain mostly theoretical problems based on material covered in lectures and readings. They may also contain coding problems, or questions about the literature and empirical evidence. We will solve the quizzes in class.
 
 ---
 
@@ -138,13 +160,20 @@ Your research paper should be short and follow the *AER: Insights* guidelines:
 
 Your grade will be based on the quality of the research project and your participation. The contribution to the total grade of 100 points is as follows:
 
-+ Participation: 20 points. This is a research-intensive course. As such, attendance and participation are key. This portion of your grade will be based on your participation in class, response to the quizzes, participation to the [Github discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions), and general community building.
-+ Research project: 80 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
++ Participation: 30 points. This is a research-intensive course. As such, attendance and participation are key. The participation grade will be based on various elements:
+    
+    - Summary of the lecture and reading material in class
+    - Response to the quizzes in class
+    - Participation in class
+    - Participation to the [GitHub discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions),
+    - General community building
+    
++ Research project: 70 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
 
     - Presentation of project outline: 10 points
     - Presentation of early results: 10 points
     - Presentation of final results: 10 points
-    - Final paper: 50 points
+    - Final paper: 40 points
 
 Letter grades will be based on your total grade, with the following cutoffs:
 
