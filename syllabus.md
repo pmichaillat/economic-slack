@@ -184,7 +184,7 @@ Your grade will be based on the quality of the research project and your partici
     - Summary of the lecture and reading material in class
     - Response to the quizzes in class
     - Participation in class
-    - Participation to the [GitHub discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions),
+    - Participation to [GitHub discussions](https://github.com/pascalmichaillat/economic-slack/discussions)
     - General community building
     
 + Research project: 70 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
