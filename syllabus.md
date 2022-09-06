@@ -31,25 +31,44 @@ Brown University
 
 ### Course description
 
-ECON2800 covers research topics related to economic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course presents models used to describe economic slack and discusses policies used to tackle slack. It tries to answer several questions: 
+ECON2800 covers research topics related to economic slack. This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
+
+#### What is economic slack?
+
+Economic slack describes the amount of productive resources in the economy that are unused. There are many different forms of slack:
+
++ People who cannot find a job and remain unemployed
++ Machines left idle in a factory
++ Employed workers left idle on the job
++ Hotel rooms, restaurants table, airplane seats that remain vacant
++ Durable goods that cannot be sold and depreciate
++ Perishable goods that cannot be sold and perish
+
+#### Why should we care about economic slack?
+
+Economic slack represents a waste of productive resources, and it therefore is something that should be limited. Moreover, in addition to its wastefulness, unemployment generates other, large costs to society. People who are unemployed suffer from significantly lower mental and physical health than other people with similar income. Even employed people in areas with high unemployment report lower well-being. Accordingly, good economic policy should stabilize economic slack at a desirable level and avoid periods of elevated slack.
+
+#### What questions will this course address?
+
+The course presents models of economic slack and discusses policies used to tackle slack. The course tries to answer several questions: 
 
 + Why does slack exist and why do we care about it?
-+ Why does slack vary over time? And how is this related to price flexibility or rigidity?
++ Why does slack vary over time? And how are these fluctuations related to price and wage rigidity?
 + What is the socially optimal level of slack?
 + How should monetary policy respond to fluctuations in slack over the business cycle?
 + How should fiscal policy respond to fluctuations in slack over the business cycle?
 + What happens to slack and policies at the zero lower bound?
 + Does the effectiveness of policies depend on the prevailing amount of slack?
 
+#### Switching to research mode
+
 All of you should be shifting away from learning the results of other peoples' research into learning how to conduct your own research. A major reason for teaching this material is to positively influence your research. We will also devote a good part of this course to active research. We will practice:
 
-+ How to select of a research question
-+ How to position a paper in the literature
-+ How to develop an answer to a research question
-+ How to refine and extend the answer to a research question
++ How to select a research question
++ How to position your paper in the literature
++ How to develop and refine the answer to your research question
 
 By the end of the course, you will have experienced all the stages of a research project and completed a short research paper.
-
 
 ---
 
@@ -68,7 +87,7 @@ Office hours will be conducted in-person. Office hours are first-come-first-serv
 
 #### GitHub discussion portal
 
-In addition to office hours, we will communicate through the discussion portal on the course's GitHub repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on the portal, and to respond to the queries of your fellow students whenever you can.
+In addition to office hours, we will communicate through the discussion portal on the course's GitHub repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to respond to the queries of your fellow students whenever you can.
 
 ---
 
