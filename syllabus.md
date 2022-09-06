@@ -74,8 +74,8 @@ By the end of the course, you will have experienced all the stages of a research
 
 ### Course resources
 
-+ The lecture videos and readings are hosted at https://www.pascalmichaillat.org/t5.html.
-+ The course material (syllabus, quizzes, research resources) is available at https://github.com/pascalmichaillat/economic-slack.
++ Lecture videos and readings are hosted at https://www.pascalmichaillat.org/t5.html.
++ Course material (syllabus, quizzes, other resources) is available at https://github.com/pascalmichaillat/economic-slack.
 
 ---
 
