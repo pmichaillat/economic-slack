@@ -5,7 +5,7 @@ Brown University
 
 ---
 
-### Economic Slack
+### ECONOMIC SLACK
 
 ---
 
