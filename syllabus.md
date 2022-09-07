@@ -11,10 +11,16 @@
 
 ## Instructor
 
-+ Pascal Michaillat
++ [Pascal Michaillat](https://www.pascalmichaillat.org/)
 + Associate professor of Economics, Brown University
-+ https://www.pascalmichaillat.org/
 + Room 201, 70 Waterman Street
+
+## Course resources
+
++ [Lecture videos](https://www.pascalmichaillat.org/t5.html)
++ [Required & supplemental readings](https://www.pascalmichaillat.org/t5.html)
++ [Course material (syllabus, quizzes, research tools)](https://github.com/pascalmichaillat/economic-slack)
++ [Discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions)
 
 ## Course description
 
@@ -59,11 +65,6 @@ All of you should be shifting away from learning the results of other peoples' r
 
 By the end of the course, you will have experienced all the stages of a research project and completed a short research paper.
 
-## Course resources
-
-+ Lecture videos and readings are hosted at https://www.pascalmichaillat.org/t5.html.
-+ Course material (such as syllabus & quizzes) is available at https://github.com/pascalmichaillat/economic-slack.
-
 ## Communication
 
 ### Office hours
@@ -72,7 +73,7 @@ Office hours will be conducted in-person. Office hours are first-come-first-serv
 
 ### GitHub discussion portal
 
-In addition to office hours, we will communicate through the discussion portal on the course's GitHub repository: https://github.com/pascalmichaillat/economic-slack/discussions. The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to respond to the queries of your fellow students whenever you can.
+In addition to office hours, we will communicate using [GitHub discussions](https://github.com/pascalmichaillat/economic-slack/discussions). The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to respond to the queries of your fellow students whenever you can.
 
 ## Classes
 
@@ -148,7 +149,7 @@ Your research paper should be short and follow the *AER: Insights* guidelines:
 + Manuscripts should contain no more than 5 exhibits (tables and figures). Individual exhibits are limited to one page each.
 + Manuscripts must include an abstract of 100 or fewer words.
 + Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. For empirical work, the main text should include relevant information about data sources, variable definitions and construction, the estimating equations, and any other information needed to understand and assess each exhibit in the main text. For theoretical work, proofs should typically be contained in the paper. This is the case when the proof itself provides insight into the paper's argument or when the method of proof is innovative.
-+ Manuscripts must be written in LaTeX, compiled to a PDF, and submitted by email to pascalmichaillat@brown.edu.
++ Manuscripts must be written in LaTeX, compiled to a PDF, and [submitted by email](mailto:pascalmichaillat@brown.edu).
 
 ## Grading
 
