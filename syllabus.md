@@ -52,8 +52,10 @@ Economic slack represents a waste of productive resources, and it therefore is s
 
 The course presents models of economic slack and discusses policies used to tackle slack. The course tries to answer several questions: 
 
-+ Why does slack exist and why do we care about it?
-+ Why does slack vary over time? And how are these fluctuations related to price and wage rigidity?
++ Why does slack exist
++ How does slack affect economic life?
++ Why does slack vary over time? 
++ How are slack fluctuations related to price and wage rigidity?
 + What is the socially optimal level of slack?
 + How should monetary policy respond to fluctuations in slack over the business cycle?
 + How should fiscal policy respond to fluctuations in slack over the business cycle?

@@ -8,12 +8,14 @@ The course is hosted at https://www.pascalmichaillat.org/t5.html.
 
 ## Course overview
 
-The course covers research topics related to economic slack, both on the labor market (unemployment) and on the product market (idleness). This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
+The course covers research topics related to economic slack. This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course addresses the following questions:
 
-The course reviews basic facts about slack, present models used to describe economic slack, and discuss policies used to tackle slack. It tries to answer several questions: 
-
-+ Why does slack exist and why do we care about it?
-+ Why does slack vary over time? And how is this related to price flexibility or rigidity?
++ What is economic slack?
++ Why do we care about slack?
++ Why does slack exist?
++ How does slack affect economic life?
++ Why does slack vary over time? 
++ How are slack fluctuations related to price and wage rigidity?
 + What is the socially optimal level of slack?
 + How should monetary policy respond to fluctuations in slack over the business cycle?
 + How should fiscal policy respond to fluctuations in slack over the business cycle?
