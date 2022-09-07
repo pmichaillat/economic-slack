@@ -13,8 +13,8 @@
 
 + Pascal Michaillat
 + Associate professor of Economics, Brown University
-+ Website: https://www.pascalmichaillat.org/
-+ Office: room 201, 70 Waterman Street
++ https://www.pascalmichaillat.org/
++ Room 201, 70 Waterman Street
 
 ## Course description
 
