@@ -1,6 +1,10 @@
-# Economic Slack
+# ECON2800–Economic Slack
 
-This repository contains material for ECON2800, a one-semester graduate course on economic slack taught by [Pascal Michaillat](https://www.pascalmichaillat.org/) at [Brown University](https://www.brown.edu).
+This repository contains material for ECON2800–Economic Slack at [Brown University](https://www.brown.edu). This is an advanced PhD course offered by the [Department of Economics](https://economics.brown.edu).
+
+## Instructor
+
+The course is taught by [Pascal Michaillat](https://www.pascalmichaillat.org/). 
 
 ## Course webpage
 
@@ -26,18 +30,18 @@ The course covers research topics related to economic slack. This course is cent
 
 This is a flipped course. 
 
-+ At home, students watch lecture videos and go over readings at home. The lecture videos and readings are permanently available at https://www.pascalmichaillat.org/t5.html. 
++ At home, students watch lecture videos and go over readings. The lecture videos and readings are permanently available at https://www.pascalmichaillat.org/t5.html. 
 + Class time is used for various activities:
 	* To discuss lecture and reading material
-	* To put lecture and reading material into practice through multiple-choice questions
-	* To develop a research paper on the topic of macroeconomic slack
+	* To put lecture and reading material into practice through quizzes
+	* To develop a research paper on the topic of economic slack
 
 ## Material
 
 The repository contains all the material for the course:
 
 + `syllabus.md` - syllabus for the course
-+ `readings` folder - articles assigned as required readings
++ `readings` folder - articles assigned as readings
 + `notes` folder - lectures notes, narrated in the [lecture videos](https://www.pascalmichaillat.org/t5.html)
 + `quizzes` folder - quizzes and their solutions
 
