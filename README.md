@@ -1,6 +1,6 @@
 # ECON2800–Economic Slack
 
-This repository contains material for ECON2800–Economic Slack at [Brown University](https://www.brown.edu). This is an advanced PhD course offered by the [Department of Economics](https://economics.brown.edu).
+This repository contains material for ECON2800–Economic Slack. This is an advanced PhD course offered by the [Department of Economics](https://economics.brown.edu) at [Brown University](https://www.brown.edu).
 
 ## Instructor
 
