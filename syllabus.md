@@ -1,4 +1,4 @@
-# ECON2800–Economic Slack / Fall 2022
+# ECON2800 / Economic Slack / Fall 2022
 
 ## Teaching times & locations
 
