@@ -19,7 +19,7 @@ The course covers research topics related to economic slack. This course is cent
 + Why does slack exist?
 + How does slack affect economic life?
 + Why does slack vary over time? 
-+ How are slack fluctuations related to price and wage rigidity?
++ How are slack fluctuations related to price and wage rigidities?
 + What is the socially optimal level of slack?
 + How should monetary policy respond to fluctuations in slack over the business cycle?
 + How should fiscal policy respond to fluctuations in slack over the business cycle?
