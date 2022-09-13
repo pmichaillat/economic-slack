@@ -41,7 +41,7 @@ This is a flipped course.
 The repository contains all the material for the course:
 
 + `syllabus.md` - course syllabus
-+ `bibliography.bib` - bibliography containing all the [course readings](https://www.pascalmichaillat.org/t5.html) (BibTeX format)
++ `bibliography.bib` - course bibliography (BibTeX format)
 + `readings` folder - articles assigned as [readings](https://www.pascalmichaillat.org/t5.html) (PDF format)
 + `notes` folder - lectures notes narrated in the [lecture videos](https://www.pascalmichaillat.org/t5.html) (PDF format)
 
