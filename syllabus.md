@@ -82,7 +82,7 @@ This is a flipped course.
 + At home, you will watch lectures and read articles.
 + Classes time will have three parts:
 
-    1. During the first part of the class, we will discuss the lecture material and readings. To lead the discussion, you will give short presentations that summarize the material from lecture, the required readings, and the supplemental readings. We will discuss anything that is unclear and answer all questions. 
+    1. During the first part of the class, we will discuss the lecture material and readings. To lead the discussion, you will give short presentations that summarize the material from the required readings and supplemental readings. We will discuss anything that is unclear and answer all questions. 
     2. During the second part, we will put the material from lecture and readings into practice. To do so, we will solve a number of multiple-choice questions.
     3. During the third part of class, you will work on your research project. This will involve both development of the project and presentation of various intermediate steps.
 
@@ -108,15 +108,17 @@ The required readings cover important material on which the lectures are based. 
 
 ## Summary of lectures & readings
 
-At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, everyone will give a short presentation that summarizes either the material from lecture or one of the readings.
+At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, everyone will give a short presentation that summarizes one of the readings.
 
-Each presentation should have five slides with the following structure:
+Each presentation should have at the minimum five slides addressing the following questions:
 
-1. What is the research question addressed by the lecture/paper?
-2. How does the material covered in the lecture/paper contribute to the previous literature? Which hole does it fill?
+1. What is the research question addressed by the paper?
+2. How does the material covered in the paper contribute to the previous literature? Which hole does it fill?
 3. What are the main elements of the answer to the research question?
-4. Illustrate graphically the answer to the research question.
-5. What are the limitations of the answer provided in the lecture/paper? How could the answer be improved?
+4. Illustrate graphically the answer to the research question or an interesting mechanism discussed in the paper.
+5. What are the limitations of the answer provided in the paper? How could the answer be improved?
+
+If you need a few more slides to explain the paper and its results, or if you need not just one but a few graphs to explain the mechanisms, that is no problem at all as long as the presentation remain below 20 minutes.
 
 ## Quizzes
 
