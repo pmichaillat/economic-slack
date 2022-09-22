@@ -92,15 +92,16 @@ At home, before each weekly meeting, you will have to watch [lecture videos](htt
   
 + Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
 + Before Wednesday 21 September: videos & readings in section "Matching Function"
-+ Before Wednesday 28 September: videos & readings in section "Static Model of Slack"
-+ Before Wednesday 5 October: videos & readings in section "Price and Wage Rigidities"
-+ Before Wednesday 12 October: videos & readings in section "Dynamic Model of Slack"
-+ Before Wednesday 19 October: videos & readings in section "Model of Idleness and Unemployment"
-+ Before Wednesday 26 October: videos & readings in section "Efficiency and Inefficiency"
-+ Before Wednesday 2 November: videos & readings in section "Business Cycles"
-+ Before Wednesday 9 November: videos & readings in section "Monetary Policy"
-+ Before Wednesday 16 November: videos & readings in section "Fiscal Policy"
-+ Before Wednesday 30 November: videos & readings in section "Policy Multipliers"
++ Before Wednesday 28 September: videos 18–23 & readings in section "Static Model of Slack"
++ Before Wednesday 5 October: videos 24– in section "Static Model of Slack"
++ Before Wednesday 12 October: videos & readings in section "Price and Wage Rigidities"
++ Before Wednesday 19 October: videos & readings in section "Dynamic Model of Slack"
++ Before Wednesday 26 October: videos & readings in section  "Model of Idleness and Unemployment"
++ Before Wednesday 2 November: videos & readings in section "Social Welfare, Efficiency, and Inefficiency"
++ Before Wednesday 9 November: videos & readings in section "Business-Cycle Fluctuations"
++ Before Wednesday 16 November: videos & readings in section "Optimal Monetary Policy"
++ Before Wednesday 30 November: videos & readings in section "Optimal Fiscal Policy"
++ Before Wednesday 7 December: videos & readings in section "Slack-Dependent Policy Multipliers"
 
 The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. 
 
