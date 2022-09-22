@@ -92,8 +92,8 @@ At home, before each weekly meeting, you will have to watch [lecture videos](htt
   
 + Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
 + Before Wednesday 21 September: videos & readings in section "Matching Function"
-+ Before Wednesday 28 September: videos & readings in section "Price and Wage Rigidities"
-+ Before Wednesday 5 October: videos & readings in section "Static Model of Slack"
++ Before Wednesday 28 September: videos & readings in section "Static Model of Slack"
++ Before Wednesday 5 October: videos & readings in section "Price and Wage Rigidities"
 + Before Wednesday 12 October: videos & readings in section "Dynamic Model of Slack"
 + Before Wednesday 19 October: videos & readings in section "Model of Idleness and Unemployment"
 + Before Wednesday 26 October: videos & readings in section "Efficiency and Inefficiency"
