@@ -19,7 +19,7 @@
 
 + [Lecture videos](https://www.pascalmichaillat.org/t5.html)
 + [Required & supplemental readings](https://www.pascalmichaillat.org/t5.html)
-+ [Course material (syllabus, quizzes, research tools)](https://github.com/pascalmichaillat/economic-slack)
++ [Course material (syllabus, research tools)](https://github.com/pascalmichaillat/economic-slack)
 + [Discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions)
 
 ## Course description
@@ -83,7 +83,7 @@ This is a flipped course.
 + Classes time will have three parts:
 
     1. During the first part of the class, we will discuss the lecture material and readings. To lead the discussion, you will give short presentations that summarize the material from the required readings and supplemental readings. We will discuss anything that is unclear and answer all questions. 
-    2. During the second part, we will put the material from lecture and readings into practice. To do so, we will solve a number of multiple-choice questions.
+    2. During the second part, we will discuss the material from lecture and readings.
     3. During the third part of class, you will work on your research project. This will involve both development of the project and presentation of various intermediate steps.
 
 ## Lectures & readings
@@ -121,10 +121,6 @@ Each presentation should have at the minimum five slides addressing the followin
 
 If you need a few more slides to explain the paper and its results, or if you need not just one but a few graphs to explain the mechanisms, that is no problem at all as long as the presentation remain below 20 minutes.
 
-## Quizzes
-
-Quizzes will contain mostly theoretical problems based on material covered in lectures and readings. They may also contain coding problems, or questions about the literature and empirical evidence. We will solve the quizzes in class.
-
 ## Research paper
 
 One of the main objectives of the course is to produce a short research paper on a topic related to economic slack.
@@ -161,7 +157,6 @@ Your grade will be based on the quality of the research project and your partici
 + Participation: 30 points. This is a research-intensive course. As such, attendance and participation are key. The participation grade will be based on various elements:
     
     - Summary of the lecture and reading material in class
-    - Response to the quizzes in class
     - Participation in class
     - Participation to [GitHub discussions](https://github.com/pascalmichaillat/economic-slack/discussions)
     - General community building
