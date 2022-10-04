@@ -86,14 +86,14 @@ This is a flipped course.
     2. During the second part, we will discuss the material from lecture and readings.
     3. During the third part of class, you will work on your research project. This will involve both development of the project and presentation of various intermediate steps.
 
-## Lectures & readings
+## Tentative Schedule of Lectures & readings
 
 At home, before each weekly meeting, you will have to watch [lecture videos](https://www.pascalmichaillat.org/t5.html) and go over [required readings](https://www.pascalmichaillat.org/t5.html).
   
 + Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
 + Before Wednesday 21 September: videos & readings in section "Matching Function"
 + Before Wednesday 28 September: videos 20–27 & readings in section "Static Model of Slack"
-+ Before Wednesday 5 October: videos 28– in section "Static Model of Slack"
++ Before Wednesday 5 October: videos 28–40 in section "Static Model of Slack"
 + Before Wednesday 12 October: videos & readings in section "Price and Wage Rigidities"
 + Before Wednesday 19 October: videos & readings in section "Dynamic Model of Slack"
 + Before Wednesday 26 October: videos & readings in section  "Model of Idleness and Unemployment"
@@ -103,9 +103,9 @@ At home, before each weekly meeting, you will have to watch [lecture videos](htt
 + Before Wednesday 30 November: videos & readings in section "Optimal Fiscal Policy"
 + Before Wednesday 7 December: videos & readings in section "Slack-Dependent Policy Multipliers"
 
-The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. 
+The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. [Supplemental readings](https://www.pascalmichaillat.org/t5.html) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
 
-[Supplemental readings](https://www.pascalmichaillat.org/t5.html) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
+This is a tentative schedule. Updates to the schedule will be communicated via the [discussions portal](https://github.com/pascalmichaillat/economic-slack/discussions).
 
 ## Summary of lectures & readings
 
@@ -133,12 +133,14 @@ A good research paper should do the following:
 + Answer the research question using a combination of theory, simulations, and empirical analysis
 + Position the paper in the prior literature
 
-### Key dates
+### Tentative due dates
 
 + Wednesday 26 October: class presentation of the project outline
 + Wednesday 16 November: class presentation of early results
 + Wednesday 7 December: class presentation of final results
 + Wednesday 14 December: final paper due
+
+This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions portal](https://github.com/pascalmichaillat/economic-slack/discussions).
 
 ### Format
 
