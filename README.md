@@ -43,6 +43,11 @@ The repository contains all the material for the course:
 + `syllabus.md` - course syllabus
 + `bibliography.bib` - course bibliography (BibTeX format)
 + `readings` folder - articles assigned as [readings](https://www.pascalmichaillat.org/t5.html) (PDF format)
++ `data` folder - data for research
+	* `nes.dta` - public-use file for the 1997 National Employer Survey (NES)
+	* `nes.pdf` - questionaire from the 1997 National Employer Survey (NES)
++ `resources` folder - resources for the lectures and research
+	* `composition.pdf` - compositions of functions that preserve convexity and concavity
 
 ## License
 
