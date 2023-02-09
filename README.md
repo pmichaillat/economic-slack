@@ -1,4 +1,4 @@
-# ECON2800–Economic Slack
+# Economic Slack
 
 This repository contains material for a semester-long graduate course on economic slack.
 
