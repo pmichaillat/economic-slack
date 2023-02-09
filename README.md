@@ -8,7 +8,7 @@ The course is taught by [Pascal Michaillat](https://www.pascalmichaillat.org/).
 
 ## Course webpage
 
-The course is hosted at https://www.pascalmichaillat.org/t5.html.
+The course is hosted at https://pascalmichaillat.org/c2/.
 
 ## Course overview
 
