@@ -11,14 +11,14 @@
 
 ## Instructor
 
-+ [Pascal Michaillat](https://www.pascalmichaillat.org/)
++ [Pascal Michaillat](https://pascalmichaillat.org/)
 + Associate professor of Economics, Brown University
 + Room 201, 70 Waterman Street
 
 ## Course resources
 
-+ [Lecture videos](https://www.pascalmichaillat.org/t5.html)
-+ [Required & supplemental readings](https://www.pascalmichaillat.org/t5.html)
++ [Lecture videos](https://pascalmichaillat.org/c2/)
++ [Required & supplemental readings](https://pascalmichaillat.org/c2/)
 + [Course material (syllabus, research tools)](https://github.com/pascalmichaillat/economic-slack)
 + [Discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions)
 
@@ -88,7 +88,7 @@ This is a flipped course.
 
 ## Tentative Schedule of Lectures & readings
 
-At home, before each weekly meeting, you will have to watch [lecture videos](https://www.pascalmichaillat.org/t5.html) and go over [required readings](https://www.pascalmichaillat.org/t5.html).
+At home, before each weekly meeting, you will have to watch [lecture videos](https://pascalmichaillat.org/c2/) and go over [required readings](https://pascalmichaillat.org/c2/).
   
 + Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
 + Before Wednesday 21 September: videos & readings in section "Matching Function"
@@ -103,7 +103,7 @@ At home, before each weekly meeting, you will have to watch [lecture videos](htt
 + Before Wednesday 30 November: videos & readings in section "Optimal Fiscal Policy"
 + Before Wednesday 7 December: videos & readings in section "Slack-Dependent Policy Multipliers"
 
-The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. [Supplemental readings](https://www.pascalmichaillat.org/t5.html) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
+The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. [Supplemental readings](https://pascalmichaillat.org/c2/) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
 
 This is a tentative schedule. Updates to the schedule will be communicated via the [discussions portal](https://github.com/pascalmichaillat/economic-slack/discussions).
 
