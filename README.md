@@ -22,10 +22,11 @@ The course covers research topics related to economic slack. This course is cent
 + What happens to slack and policies at the zero lower bound?
 + Does the effectiveness of policies depend on the prevailing amount of slack?
 
-## Included material
+## Repository content
 
-+ `syllabus.md` - Course syllabus for Fall 2022
-+ `resources` folder - Resources for the lectures and research
++ [Course syllabus for Fall 2022](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
++ [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
++ [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources)
 	* `composition.pdf` - Compositions of functions that preserve convexity and concavity
 	* `data` folder - Data for research
 		- `nes.dta` - Public-use file for the 1997 National Employer Survey (NES)
