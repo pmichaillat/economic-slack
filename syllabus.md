@@ -1,4 +1,4 @@
-# ECON2800 / Economic Slack / Fall 2022
+# Economic Slack (ECON 2800) – Fall 2022
 
 ## Teaching times & locations
 
@@ -20,7 +20,7 @@
 + [Lecture videos](https://pascalmichaillat.org/c2/)
 + [Required & supplemental readings](https://pascalmichaillat.org/c2/)
 + [Course material (syllabus, research tools)](https://github.com/pascalmichaillat/economic-slack)
-+ [Discussion portal](https://github.com/pascalmichaillat/economic-slack/discussions)
++ [Discussion forum](https://github.com/pascalmichaillat/economic-slack/discussions)
 
 ## Course description
 
@@ -71,9 +71,9 @@ By the end of the course, you will have experienced all the stages of a research
 
 Office hours will be conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in lecture and readings, discuss your research project, or talk about any other course-related matters.
 
-### GitHub discussion portal
+### GitHub Discussions
 
-In addition to office hours, we will communicate using [GitHub discussions](https://github.com/pascalmichaillat/economic-slack/discussions). The discussion portal is designed to get you help quickly and efficiently. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to respond to the queries of your fellow students whenever you can.
+In addition to office hours, we will communicate using [GitHub Discussions](https://github.com/pascalmichaillat/economic-slack/discussions). This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to participate whenever you can.
 
 ## Classes
 
@@ -88,24 +88,24 @@ This is a flipped course.
 
 ## Tentative Schedule of Lectures & readings
 
-At home, before each weekly meeting, you will have to watch [lecture videos](https://pascalmichaillat.org/c2/) and go over [required readings](https://pascalmichaillat.org/c2/).
+At home, before each weekly meeting, you will have to watch [lecture videos](https://pascalmichaillat.org/c2/) and go over [readings](https://pascalmichaillat.org/c2/).
   
-+ Before Wednesday 14 September: videos & readings in section "Evolution of Business-Cycle Models"
-+ Before Wednesday 21 September: videos & readings in section "Matching Function"
-+ Before Wednesday 28 September: videos 20–27 & readings in section "Static Model of Slack"
-+ Before Wednesday 5 October: videos 28–40 in section "Static Model of Slack"
-+ Before Wednesday 12 October: videos & readings in section "Price and Wage Rigidities"
-+ Before Wednesday 19 October: videos & readings in section "Dynamic Model of Slack"
-+ Before Wednesday 26 October: videos & readings in section  "Model of Idleness and Unemployment"
-+ Before Wednesday 2 November: videos & readings in section "Social Welfare, Efficiency, and Inefficiency"
-+ Before Wednesday 9 November: videos & readings in section "Business-Cycle Fluctuations"
-+ Before Wednesday 16 November: videos & readings in section "Optimal Monetary Policy"
-+ Before Wednesday 30 November: videos & readings in section "Optimal Fiscal Policy"
-+ Before Wednesday 7 December: videos & readings in section "Slack-Dependent Policy Multipliers"
++ Before Wednesday 14 September: videos & readings in ["Overview of business-cycle models"](https://pascalmichaillat.org/c2/#overview-of-business-cycle-models)
++ Before Wednesday 21 September: videos & readings in ["Prevalence of slack and matching function"](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
++ Before Wednesday 28 September: videos 20–27 & readings in ["Basic model of slack"](https://pascalmichaillat.org/c2/#basic-model-of-slack)
++ Before Wednesday 5 October: videos 28–40 in ["Basic model of slack"](https://pascalmichaillat.org/c2/#basic-model-of-slack)
++ Before Wednesday 12 October: videos & readings in ["Model of slack with income and wealth inequality"](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality)
++ Before Wednesday 19 October: videos & readings in ["Discussion of the solution concept"](https://pascalmichaillat.org/c2/#discussion-of-the-solution-concept)
++ Before Wednesday 26 October: videos & readings in ["Price and wage rigidities"](https://pascalmichaillat.org/c2/#price-and-wage-rigidities)
++ Before Wednesday 2 November: videos & readings in ["Model of slack with labor and product markets"](https://pascalmichaillat.org/c2/#model-of-slack-with-labor-and-product-markets)
++ Before Wednesday 9 November: videos & readings in  ["Dynamic model of slack"](https://pascalmichaillat.org/c2/#dynamic-model-of-slack)
++ Before Wednesday 16 November: videos & readings in ["Social welfare, efficiency, and inefficiency"](https://pascalmichaillat.org/c2/#social-welfare-efficiency-and-inefficiency)
++ Before Wednesday 30 November: videos & readings in ["Optimal monetary policy over the business cycle"](https://pascalmichaillat.org/c2/#optimal-monetary-policy-over-the-business-cycle)
++ Before Wednesday 7 December: videos & readings in ["Optimal government spending over the business cycle"](https://pascalmichaillat.org/c2/#optimal-government-spending-over-the-business-cycle)
 
 The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. [Supplemental readings](https://pascalmichaillat.org/c2/) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
 
-This is a tentative schedule. Updates to the schedule will be communicated via the [discussions portal](https://github.com/pascalmichaillat/economic-slack/discussions).
+This is a tentative schedule. Updates to the schedule will be communicated via the [discussion forum](https://github.com/pascalmichaillat/economic-slack/discussions).
 
 ## Summary of lectures & readings
 
@@ -140,7 +140,7 @@ A good research paper should do the following:
 + Wednesday 7 December: class presentation of final results
 + Wednesday 14 December: final paper due
 
-This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions portal](https://github.com/pascalmichaillat/economic-slack/discussions).
+This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions forum](https://github.com/pascalmichaillat/economic-slack/discussions).
 
 ### Format
 

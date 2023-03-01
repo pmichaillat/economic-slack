@@ -1,10 +1,6 @@
-# Economic Slack
+# Economic Slack (ECON 2800) – Fall 2022
 
-This repository contains material for a semester-long graduate course on economic slack.
-
-## Instructor
-
-The course material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 2800 at [Brown University](https://www.brown.edu). 
+This repository is a portal for Economic Slack (ECON 2800) at [Brown University](https://www.brown.edu), which is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
@@ -26,36 +22,21 @@ The course covers research topics related to economic slack. This course is cent
 + What happens to slack and policies at the zero lower bound?
 + Does the effectiveness of policies depend on the prevailing amount of slack?
 
-## Organization
+## Included material
 
-This is a flipped course. 
-
-+ At home, students watch lecture videos and go over readings. The lecture videos and readings are permanently available at https://pascalmichaillat.org/c2/. 
-+ Class time is used for various activities:
-	* To discuss lecture and reading material
-	* To put lecture and reading material into practice through quizzes
-	* To develop a research paper on the topic of economic slack
-
-## Material
-
-The repository contains all the material for the course:
-
-+ `syllabus.md` - course syllabus
-+ `bibliography.bib` - course bibliography (BibTeX format)
-+ `readings` folder - articles assigned as [readings](https://pascalmichaillat.org/c2/) (PDF format)
-+ `notes` folder – lecture notes narrated in the [lecture videos](https://pascalmichaillat.org/c2/)
-+ `resources` folder - resources for the lectures and research
-	* `composition.pdf` - compositions of functions that preserve convexity and concavity
-	* `data` folder - data for research
-		- `nes.dta` - public-use file for the 1997 National Employer Survey (NES)
-		- `nes.pdf` - questionaire from the 1997 National Employer Survey (NES)
-	* `survey` folder – template survey for research
-		- `participation.doc` – template participation information package
-		- `survey.doc` – template survey questionaire
++ `syllabus.md` - Course syllabus for Fall 2022
++ `resources` folder - Resources for the lectures and research
+	* `composition.pdf` - Compositions of functions that preserve convexity and concavity
+	* `data` folder - Data for research
+		- `nes.dta` - Public-use file for the 1997 National Employer Survey (NES)
+		- `nes.pdf` - Questionaire from the 1997 National Employer Survey (NES)
+	* `survey` folder – Template survey for research
+		- `participation.doc` – Template participation information package
+		- `survey.doc` – Template survey questionaire
 
 ## Lecture playlist
 
-All the lecture videos are also available as a [playlist on YouTube](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW). The playlist might make it easier to watch the lectures and follow the course.
+The course's lecture videos are also available as a [playlist on YouTube](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW). The playlist might make it easier to watch the lectures and follow the course.
 
 ## License
 
