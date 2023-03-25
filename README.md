@@ -1,6 +1,6 @@
-# Economic Slack (ECON 2800) – Fall 2022
+# Economic Slack (ECON 2800): Fall 2022 Portal
 
-This repository is a portal for Economic Slack (ECON 2800) at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the student portal for the Fall 2022 instance of Economic Slack (ECON 2800) at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
@@ -24,7 +24,7 @@ The course covers research topics related to economic slack. This course is cent
 
 ## Repository content
 
-+ [Course syllabus for Fall 2022](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
++ [Fall 2022 syllabus](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
 + [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources)
 	* `composition.pdf` - Compositions of functions that preserve convexity and concavity
