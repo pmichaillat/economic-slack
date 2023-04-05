@@ -28,6 +28,7 @@ The course covers research topics related to economic slack. This course is cent
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
 + [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources)
 	* `composition.pdf` - Compositions of functions that preserve convexity and concavity
+	* `bibliography.bib` – Course bibliography (BibTeX format)
 	* `data` folder - Data for research
 		- `nes.dta` - Public-use file for the 1997 National Employer Survey (NES)
 		- `nes.pdf` - Questionaire from the 1997 National Employer Survey (NES)
