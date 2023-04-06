@@ -22,7 +22,7 @@ The course covers research topics related to economic slack. This course is cent
 + What happens to slack and policies at the zero lower bound?
 + Does the effectiveness of policies depend on the prevailing amount of slack?
 
-## Repository content
+## Portal content
 
 + [Fall 2022 syllabus](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
