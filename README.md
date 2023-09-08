@@ -1,10 +1,10 @@
-# Economic Slack (ECON 2800): Course Portal
+# Economic Slack: Portal
 
-This repository is the course portal for the Fall 2022 instance of Economic Slack (ECON 2800) at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the portal for the course "Economic Slack" at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
-The course is hosted at https://pascalmichaillat.org/c2/.
+The course material is hosted at https://pascalmichaillat.org/c2/.
 
 ## Course overview
 
