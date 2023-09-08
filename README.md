@@ -1,6 +1,6 @@
 # Economic Slack: Portal
 
-This repository is the portal for the course "Economic Slack" at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the portal for the course "Economic Slack" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [Brown University](https://www.brown.edu). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
