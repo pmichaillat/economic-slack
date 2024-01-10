@@ -1,44 +1,17 @@
 # Economic Slack: Portal
 
-This repository is the portal for the course "Economic Slack" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [Brown University](https://www.brown.edu). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the portal for the course "Economic Slack" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu) in Winter 2024. The course ID is [ECON 221B](https://economics.ucsc.edu/academics/courses/class-schedule.php/course/2240-30285/adv-methods-macro-ii). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
 The course material is hosted at https://pascalmichaillat.org/c2/.
 
-## Course overview
-
-The course covers research topics related to economic slack. This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course addresses the following questions:
-
-+ What is economic slack?
-+ Why do we care about slack?
-+ Why does slack exist?
-+ How does slack affect economic life?
-+ Why does slack vary over time? 
-+ How are slack fluctuations related to price and wage rigidities?
-+ What is the socially optimal level of slack?
-+ How should monetary policy respond to fluctuations in slack over the business cycle?
-+ How should fiscal policy respond to fluctuations in slack over the business cycle?
-+ What happens to slack and policies at the zero lower bound?
-+ Does the effectiveness of policies depend on the prevailing amount of slack?
-
 ## Portal content
 
-+ [Fall 2022 syllabus](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
-+ [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
-+ [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources)
-	* `composition.pdf` - Compositions of functions that preserve convexity and concavity
-	* `bibliography.bib` – Course bibliography (BibTeX format)
-	* `data` folder - Data for research
-		- `nes.dta` - Public-use file for the 1997 National Employer Survey (NES)
-		- `nes.pdf` - Questionaire from the 1997 National Employer Survey (NES)
-	* `survey` folder – Template survey for research
-		- `participation.doc` – Template participation information package
-		- `survey.doc` – Template survey questionaire
-
-## Lecture playlist
-
-The course's lecture videos are also available as a [playlist on YouTube](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW). The playlist might make it easier to watch the lectures and follow the course.
++ [Syllabus for Winter 2024](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
++ [Book chapters](https://github.com/pmichaillat/economic-slack/tree/main/chapters]) – The folder contains book chapters assigned as reading in PDF. These chapters may be hard to find otherwise.
++ [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions) – This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course.
++ [Lecture resources](https://github.com/pmichaillat/economic-slack/tree/main/resources) – The folder contains additional resources for the course, including results on convexity and a preliminary bibliography of readings.
 
 ## License
 

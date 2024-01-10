@@ -1,61 +1,39 @@
-# Economic Slack: Fall 2022 Syllabus
-
-## Teaching times & locations
-
-+ Class: 
-    * Wednesday, 1:00pm–3:20pm
-    * Room 016, 8 Fones Alley
-+ Office hours: 
-    * Friday, 12:00pm-1:00pm
-    * Room 201, 70 Waterman Street
+# Economic Slack: Winter 2024 Syllabus
 
 ## Instructor
 
 + [Pascal Michaillat](https://pascalmichaillat.org/)
-+ Associate professor of Economics, Brown University
-+ Room 201, 70 Waterman Street
++ Associate Professor of Economics, UCSC
+
+## Teaching time & location
+
++ Tuesday–Thursday, 5:20pm–6:55pm
++ Room 222, Cowell Academic Building
+
+## Office hours
+
++ Wednesday, 3:00pm-4:00pm
++ Room 437, Engineering 2 Building
 
 ## Course resources
 
-+ [Lecture videos](https://pascalmichaillat.org/c2/)
-+ [Required & supplemental readings](https://pascalmichaillat.org/c2/)
-+ [Course material (syllabus, research tools)](https://github.com/pascalmichaillat/economic-slack)
-+ [Discussion forum](https://github.com/pascalmichaillat/economic-slack/discussions)
++ [Course material](https://pascalmichaillat.org/c2/)
++ [Course portal](https://github.com/pmichaillat/economic-slack)
++ [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
 
 ## Course description
 
-The course covers research topics related to economic slack. The course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
+The course covers research topics related to economic slack—the amount of productive resources in the economy that are unused. The course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course presents models of economic slack and discusses policies used to tackle slack. The course tries to answer several questions: 
 
-### What is economic slack?
-
-Economic slack describes the amount of productive resources in the economy that are unused. There are many different forms of slack:
-
-+ People who cannot find a job and remain unemployed
-+ Machines left idle in a factory
-+ Employed workers left idle on the job
-+ Hotel rooms, restaurants table, airplane seats that remain vacant
-+ Durable goods that cannot be sold and depreciate
-+ Perishable goods that cannot be sold and perish
-
-### Why should we care about economic slack?
-
-Economic slack represents a waste of productive resources, and it therefore is something that should be limited. Moreover, in addition to its wastefulness, unemployment generates other, large costs to society. People who are unemployed suffer from significantly lower mental and physical health than other people with similar income. Even employed people in areas with high unemployment report lower well-being. Accordingly, good economic policy should stabilize economic slack at a desirable level and avoid periods of elevated slack.
-
-### What questions will this course address?
-
-The course presents models of economic slack and discusses policies used to tackle slack. The course tries to answer several questions: 
-
-+ Why does slack exist
++ Why does slack exist?
 + How does slack affect economic life?
 + Why does slack vary over time? 
 + How are slack fluctuations related to price and wage rigidity?
 + What is the socially optimal level of slack?
 + How should monetary policy respond to fluctuations in slack over the business cycle?
 + How should fiscal policy respond to fluctuations in slack over the business cycle?
-+ What happens to slack and policies at the zero lower bound?
-+ Does the effectiveness of policies depend on the prevailing amount of slack?
 
-### Switching to research mode
+## Switching to research mode
 
 All of you should be shifting away from learning the results of other peoples' research into learning how to conduct your own research. A major reason for teaching this material is to positively influence your research. We will also devote a good part of this course to active research. We will practice:
 
@@ -73,45 +51,53 @@ Office hours will be conducted in-person. Office hours are first-come-first-serv
 
 ### GitHub Discussions
 
-In addition to office hours, we will communicate using [GitHub Discussions](https://github.com/pascalmichaillat/economic-slack/discussions). This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to participate whenever you can.
+In addition to office hours, we will communicate using [GitHub Discussions](https://github.com/pmichaillat/economic-slack/discussions). This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course. So rather than emailing me or each other, I encourage you to post your questions and queries on GitHub, and to participate whenever you can.
 
 ## Classes
 
 This is a flipped course. 
 
 + At home, you will watch lectures and read articles.
-+ Classes time will have three parts:
++ Classes time will have two parts:
 
-    1. During the first part of the class, we will discuss the lecture material and readings. To lead the discussion, you will give short presentations that summarize the material from the required readings and supplemental readings. We will discuss anything that is unclear and answer all questions. 
-    2. During the second part, we will discuss the material from lecture and readings.
-    3. During the third part of class, you will work on your research project. This will involve both development of the project and presentation of various intermediate steps.
+1. During the first part of the class, we will discuss the lecture material and readings. To lead the discussion, you will give short presentations that summarize the material from the readings. We will discuss anything that is unclear and answer all questions. 
+2. During the second part of class, you will work on your research project. This will involve both development of the project and presentation of various intermediate steps.
 
-## Tentative Schedule of Lectures & readings
+## Tentative schedule of lectures & readings
 
-At home, before each weekly meeting, you will have to watch [lecture videos](https://pascalmichaillat.org/c2/) and go over [readings](https://pascalmichaillat.org/c2/).
+At home, before each meeting, you will have to watch lecture videos and go over readings.
   
-+ Before Wednesday 14 September: videos & readings in ["Overview of business-cycle models"](https://pascalmichaillat.org/c2/#overview-of-business-cycle-models)
-+ Before Wednesday 21 September: videos & readings in ["Prevalence of slack and matching function"](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
-+ Before Wednesday 28 September: videos 20–27 & readings in ["Basic model of slack"](https://pascalmichaillat.org/c2/#basic-model-of-slack)
-+ Before Wednesday 5 October: videos 28–40 in ["Basic model of slack"](https://pascalmichaillat.org/c2/#basic-model-of-slack)
-+ Before Wednesday 12 October: videos & readings in ["Model of slack with income and wealth inequality"](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality)
-+ Before Wednesday 19 October: videos & readings in ["Discussion of the solution concept"](https://pascalmichaillat.org/c2/#discussion-of-the-solution-concept)
-+ Before Wednesday 26 October: videos & readings in ["Price and wage rigidities"](https://pascalmichaillat.org/c2/#price-and-wage-rigidities)
-+ Before Wednesday 2 November: videos & readings in ["Model of slack with labor and product markets"](https://pascalmichaillat.org/c2/#model-of-slack-with-labor-and-product-markets)
-+ Before Wednesday 9 November: videos & readings in  ["Dynamic model of slack"](https://pascalmichaillat.org/c2/#dynamic-model-of-slack)
-+ Before Wednesday 16 November: videos & readings in ["Social welfare, efficiency, and inefficiency"](https://pascalmichaillat.org/c2/#social-welfare-efficiency-and-inefficiency)
-+ Before Wednesday 30 November: videos & readings in ["Optimal monetary policy over the business cycle"](https://pascalmichaillat.org/c2/#optimal-monetary-policy-over-the-business-cycle)
-+ Before Wednesday 7 December: videos & readings in ["Optimal government spending over the business cycle"](https://pascalmichaillat.org/c2/#optimal-government-spending-over-the-business-cycle)
++ Before Thursday 11 January: videos & main readings in ["Introduction"](https://pascalmichaillat.org/c2/#introduction)
++ Before Tuesday 16 January: videos in ["Prevalence of slack and matching function"](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
++ Before Thursday 18 January: main readings in ["Prevalence of slack and matching function"](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
++ Before Tuesday 23 January: videos in ["Basic model of slack"](https://pascalmichaillat.org/c2/#basic-model-of-slack)
++ Before Thursday 25 January: main readings in ["Basic model of slack"](https://pascalmichaillat.org/c2/#basic-model-of-slack)
++ Before Tuesday 30 January: videos in ["Model of slack with income and wealth inequality"](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality) and ["Discussion of the solution concept"]
++ Before Thursday 1 February: main readings in ["Model of slack with income and wealth inequality"](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality) and ["Discussion of the solution concept"]
++ Before Tuesday 6 February: videos in ["Price and wage rigidities"](https://pascalmichaillat.org/c2/#price-and-wage-rigidities)
++ Before Thursday 8 February: main readings in ["Price and wage rigidities"](https://pascalmichaillat.org/c2/#price-and-wage-rigidities)
++ Before Tuesday 13 February: videos in ["Model of slack with labor and product markets"](https://pascalmichaillat.org/c2/#model-of-slack-with-labor-and-product-markets)
++ Before Thursday 15 February: main readings in ["Model of slack with labor and product markets"](https://pascalmichaillat.org/c2/#model-of-slack-with-labor-and-product-markets)
++ Before Tuesday 20 February: videos in  ["Dynamic model of slack"](https://pascalmichaillat.org/c2/#dynamic-model-of-slack)
++ Before Thursday 22 February: main readings in  ["Dynamic model of slack"](https://pascalmichaillat.org/c2/#dynamic-model-of-slack)
++ Before Tuesday 27 February: videos in ["Social welfare, efficiency, and inefficiency"](https://pascalmichaillat.org/c2/#social-welfare-efficiency-and-inefficiency)
++ Before Thursday 29 February: main readings in ["Social welfare, efficiency, and inefficiency"](https://pascalmichaillat.org/c2/#social-welfare-efficiency-and-inefficiency)
++ Before Tuesday 5 March: videos in ["Optimal monetary policy over the business cycle"](https://pascalmichaillat.org/c2/#optimal-monetary-policy-over-the-business-cycle)
++ Before Thursday 7 March: main readings in ["Optimal monetary policy over the business cycle"](https://pascalmichaillat.org/c2/#optimal-monetary-policy-over-the-business-cycle)
++ Before Tuesday 12 March: videos in ["Optimal government spending over the business cycle"](https://pascalmichaillat.org/c2/#optimal-government-spending-over-the-business-cycle)
++ Before Thursday 14 March: main readings in ["Optimal government spending over the business cycle"](https://pascalmichaillat.org/c2/#optimal-government-spending-over-the-business-cycle)
 
-The required readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. [Supplemental readings](https://pascalmichaillat.org/c2/) are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
+The main readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
 
-This is a tentative schedule. Updates to the schedule will be communicated via the [discussion forum](https://github.com/pascalmichaillat/economic-slack/discussions).
+This is a tentative schedule. Updates to the schedule will be communicated via the [discussion forum](https://github.com/pmichaillat/economic-slack/discussions).
+
+The course's lecture videos are also available as a [playlist on YouTube](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW). The playlist might make it easier to watch the lectures and follow the course.
 
 ## Summary of lectures & readings
 
-At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, everyone will give a short presentation that summarizes one of the readings.
+At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, students will give 10-minute presentation that summarize one of the readings.
 
-Each presentation should have at the minimum five slides addressing the following questions:
+Each presentation should have 5 slides addressing the following questions:
 
 1. What is the research question addressed by the paper?
 2. How does the material covered in the paper contribute to the previous literature? Which hole does it fill?
@@ -119,7 +105,7 @@ Each presentation should have at the minimum five slides addressing the followin
 4. Illustrate graphically the answer to the research question or an interesting mechanism discussed in the paper.
 5. What are the limitations of the answer provided in the paper? How could the answer be improved?
 
-If you need a few more slides to explain the paper and its results, or if you need not just one but a few graphs to explain the mechanisms, that is no problem at all as long as the presentation remain below 20 minutes.
+If you need a few more slides to explain the paper and its results, or if you need not just one but a few graphs to explain the mechanisms, that is no problem at all as long as the presentation remain below 10 minutes.
 
 ## Research paper
 
@@ -135,12 +121,12 @@ A good research paper should do the following:
 
 ### Tentative due dates
 
-+ Wednesday 26 October: class presentation of the project outline
-+ Wednesday 16 November: class presentation of early results
-+ Wednesday 7 December: class presentation of final results
-+ Wednesday 14 December: final paper due
++ Tuesday 30 January: class presentation of the project outline
++ Tuesday 27 February: class presentation of early results
++ Tuesday 12 March: class presentation of final results
++ Tuesday 19 March: final paper due
 
-This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions forum](https://github.com/pascalmichaillat/economic-slack/discussions).
+This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions forum](https://github.com/pmichaillat/economic-slack/discussions).
 
 ### Format
 
@@ -160,7 +146,7 @@ Your grade will be based on the quality of the research project and your partici
     
     - Summary of the lecture and reading material in class
     - Participation in class
-    - Participation to [GitHub discussions](https://github.com/pascalmichaillat/economic-slack/discussions)
+    - Participation to [GitHub discussions](https://github.com/pmichaillat/economic-slack/discussions)
     - General community building
     
 + Research project: 70 points. The project will be evaluated based on quality of analysis, clarity, and originality. The project grade will have the following components:
@@ -170,9 +156,4 @@ Your grade will be based on the quality of the research project and your partici
     - Presentation of final results: 10 points
     - Final paper: 40 points
 
-Letter grades will be based on your total grade, with the following cutoffs:
-
-+ Above 80/100:  A
-+ Between 60/100 and 80/100: B
-+ Between 40/100 and 60/100: C
-+ Below 40/100: NC
+Letter grades will be based on your total grade, with standard cutoffs.
