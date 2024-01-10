@@ -162,7 +162,7 @@ Your grade will be based on the quality of the research project and your partici
 
 Letter grades will be based on your total grade, with standard cutoffs.
 
-## LaTeX templates
+## LaTeX resources
 
 LaTeX is the best system to typeset scientific research. In particular, it allows to typeset mathematical expressions, insert tables and figures with results, and manage scientific references. This is why I am asking you to write your presentations and paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now.
 
@@ -175,7 +175,30 @@ I have also developed a style file collecting useful [LaTeX commands to write ma
 
 If you are new to LaTeX, I encourage you to use [Overleaf](https://www.overleaf.com/edu/ucsantacruz), for which UCSC supplies professional accounts. Overlead makes it easy to produce research paper and research presentations in LaTeX directly from your web browser. You can use the templates with Overleaf.
 
+## Writing resources
 
+There is no textbook for this course, but several books might be helpful to write your research paper.
+
+### Structure
+
+First and foremost, a good research paper needs to have a good structure. A good reference on how to structure your paper is [The Little Book of Research Writing](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162) by Varanya Chaubey.
+
+### Graphs and proofs
+
+Scientific papers involve two elements that do not appear in other writings but are fundamental to communicate scientific ideas: graphs and proofs. It is important to make clear, clean, and meaningful graphs and proofs.
+
++ A great reference on how to create compelling graphs is [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by E.R. Tufte.
++ A good guide on how to choose notation, how to describe a model, and how to present mathematical results and proofs, is [A Guide for the Young Economist](https://www.amazon.com/Guide-Young-Economist-MIT-Press/dp/026251589X) by W. Thomson. The book also contains useful advice on giving talks.
+
+### Style
+
+Once your paper has a good structure, it does not hurt to have a decent style—to help readers go through the paper.
+
++ The canonical reference on style is [The Elements of Style](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
+
+### Language
+
+Whatever you write, it is important to follow the rules and conventions of the English language. The canonical manual—followed by most US journals—is the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). You should consult it if you have any question about English writing, rules, conventions, and style.
 
 
 
