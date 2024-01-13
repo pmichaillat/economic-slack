@@ -68,8 +68,8 @@ This is a flipped course.
 At home, before each meeting, you will have to watch lecture videos and go over readings.
   
 + Before Thursday 11 January: videos & main readings in [Introduction](https://pascalmichaillat.org/c2/#introduction)
-+ Before Tuesday 16 January: videos in [Prevalence of slack and matching function](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
-+ Before Thursday 18 January: main readings in [Prevalence of slack and matching function](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
++ Before Tuesday 16 January: videos in [Overview of business-cycle models](https://pascalmichaillat.org/c2/#overview-of-business-cycle-models) and [Prevalence of slack and matching function](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
++ Before Thursday 18 January: main readings in [Overview of business-cycle models](https://pascalmichaillat.org/c2/#overview-of-business-cycle-models) and [Prevalence of slack and matching function](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
 + Before Tuesday 23 January: videos in [Basic model of slack](https://pascalmichaillat.org/c2/#basic-model-of-slack)
 + Before Thursday 25 January: main readings in [Basic model of slack](https://pascalmichaillat.org/c2/#basic-model-of-slack)
 + Before Tuesday 30 January: videos in [Model of slack with income and wealth inequality](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality) and [Discussion of the solution concept](https://pascalmichaillat.org/c2/#discussion-of-the-solution-concept)
