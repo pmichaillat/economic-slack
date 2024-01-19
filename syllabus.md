@@ -93,9 +93,9 @@ This is a tentative schedule. Updates to the schedule will be communicated via t
 
 The course's lecture videos are also available as a [playlist on YouTube](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW). The playlist might make it easier to watch the lectures and follow the course.
 
-## Summary of readings
+## Reading presentations
 
-At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, students will give 10-minute presentation that summarize one of the readings.
+At the beginning of class, we will discuss the lecture material and readings. To lead the discussion, students will give 10-minute presentations that summarize the readings for the week.
 
 Each presentation should have 5 slides addressing the following questions:
 
@@ -107,7 +107,9 @@ Each presentation should have 5 slides addressing the following questions:
 
 If you need a few more slides to explain the paper and its results, or if you need not just one but a few graphs to explain the mechanisms, that is no problem at all as long as the presentation remains below 10 minutes.
 
-Presentations must be written in LaTeX and compiled to a PDF.
+Presentation slides must be written in LaTeX and compiled to a PDF. 
+
+The slides should be uploaded to the course portal before the presentation. The easiest way to upload your slides is through [GitHub Desktop](https://desktop.github.com/). After forking the course repository, add your slides to the folder `presentations` in your fork, and then submit a pull request. Once I accept your pull request, your branch will be merged to the course repository, thereby adding your slides to the course folder. Please adhere to the following naming convention for the presentation: `AuthorsYear.pdf`.
 
 ## Research paper
 
@@ -128,9 +130,42 @@ A good research paper should do the following:
 + Tuesday 12 March: class presentation of final results
 + Tuesday 19 March: final paper due
 
-Presentations must be written in LaTeX and compiled to a PDF.
-
 This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions forum](https://github.com/pmichaillat/economic-slack/discussions).
+
+### Format of the presentations
+
+#### Project outline
+
+The project outline should be presented in 10–15 minutes with 4–7 slides.
+
++ Slide 1: research question—what are you asking in the project & why that matters
++ Slide 2: positioning—what we already know & what we do not yet know
++ Slide 3: research methodology—how you will address the research question
++ Slides 4–6: overview of what you have so far—data & model & code
++ Slide 7: hurdles & next steps
++ It is fine to propose several possible projects.
+
+#### Early results
+
+Early results should be presented in 15–20 minutes with 7–10 slides.
+
++ Slide 1: review the research question & positioning of the project
++ Slide 2: review the research method: how you will answer the question
++ Slides 3–6: overview of the data, model, & method
++ Slides 7–9: overview of the results
++ Slide 10: difficulties & next steps
+
+#### Final results
+
+Final results should be presented in 15–20 minutes with 7–10 slides.
+
++ Slide 1: review the research question & positioning of the project
++ Slide 2: review the research method: how you will answer the question
++ Slides 3–6: overview of the data, model, & method
++ Slides 7–9: overview of the results
++ Slide 10: summary & next steps
+
+Presentation slides must be written in LaTeX and compiled to a PDF.
 
 ### Format of the paper
 
@@ -140,7 +175,8 @@ Your research paper should be short and follow the *AER: Insights* guidelines:
 + Manuscripts should contain no more than 5 exhibits (tables and figures). Individual exhibits are limited to one page each.
 + Manuscripts must include an abstract of 100 or fewer words.
 + Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. For empirical work, the main text should include relevant information about data sources, variable definitions and construction, the estimating equations, and any other information needed to understand and assess each exhibit in the main text. For theoretical work, proofs should typically be contained in the paper. This is the case when the proof itself provides insight into the paper's argument or when the method of proof is innovative.
-+ Manuscripts must be written in LaTeX, compiled to a PDF, and [submitted by email](mailto:pamichai@ucsc.edu).
+
+The research paper must be written in LaTeX, compiled to a PDF, and [submitted by email](mailto:pamichai@ucsc.edu) before the due date.
 
 ## Grading
 
@@ -164,7 +200,7 @@ Letter grades will be based on your total grade, with standard cutoffs.
 
 ## LaTeX resources
 
-LaTeX is the best system to typeset scientific research. In particular, it allows to typeset mathematical expressions, insert tables and figures with results, and manage scientific references. This is why I am asking you to write your presentations and paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now.
+LaTeX is the best system to typeset scientific research. In particular, it allows to typeset mathematical expressions, insert tables and figures with results, and manage scientific references. This is why I am asking you to write your presentation slides and research paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now.
 
 If you are looking for LaTeX templates, I have developed a template for presentations and a template for papers that might be helpful. These templates follow typographical best practices and have a minimalist design. They are freely available on GitHub:
 
