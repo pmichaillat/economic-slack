@@ -12,7 +12,7 @@ The course material is hosted at https://pascalmichaillat.org/c2/.
 + [Book chapters](https://github.com/pmichaillat/economic-slack/tree/main/chapters) – The folder contains book chapters (in PDF) assigned as reading. These chapters may be hard to find otherwise.
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions) – This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course.
 + [Lecture resources](https://github.com/pmichaillat/economic-slack/tree/main/resources) – The folder contains additional resources for the course, including results on convexity.
-+ [Presentations](https://github.com/pmichaillat/economic-slack/tree/main/presentations) – The folder contains the slides for all the reading presentations.
++ [Reading presentations](https://github.com/pmichaillat/economic-slack/tree/main/presentations) – The folder contains the slides for all the reading presentations to date.
 
 ## License
 
