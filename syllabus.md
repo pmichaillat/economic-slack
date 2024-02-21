@@ -128,7 +128,7 @@ A good research paper should do the following:
 + Tuesday 30 January: class presentation of the project outline
 + Tuesday 27 February: class presentation of early results
 + Tuesday 12 March: class presentation of final results
-+ Tuesday 19 March: final paper due
++ Thursday 21 March: final paper due
 
 This is a tentative schedule for the paper's due dates. Updates to the schedule will be communicated via the [discussions forum](https://github.com/pmichaillat/economic-slack/discussions).
 
@@ -149,21 +149,22 @@ The project outline should be presented in 10–15 minutes with 4–7 slides.
 
 Early results should be presented in 15–20 minutes with 7–10 slides.
 
-+ Slide 1: review the research question & positioning of the project
-+ Slide 2: review the research method: how you will answer the question
-+ Slides 3–6: overview of the data, model, & method
-+ Slides 7–9: overview of the results
-+ Slide 10: difficulties & next steps
++ Slide 1: review the research question & why it matters
++ Slide 2: position of the project in the literature—explain what the few most related papers have done and not done, and how your paper is going to fill this gap
++ Slide 3: review the research method: how you will answer the research question
++ Slides 4–6: overview of the data, model, & method
++ Slides 7–9: overview of the early results
++ Slide 10: current roadblocks & next steps
 
 #### Final results
 
 Final results should be presented in 15–20 minutes with 7–10 slides.
 
-+ Slide 1: review the research question & positioning of the project
-+ Slide 2: review the research method: how you will answer the question
-+ Slides 3–6: overview of the data, model, & method
-+ Slides 7–9: overview of the results
-+ Slide 10: summary & next steps
++ Slide 1: review the research question & why it matters
++ Slide 2: position of the project in the literature
++ Slides 3–5: overview of the data, model, & methodology
++ Slides 6–9: description of the final results
++ Slide 10: summary & implications
 
 Presentation slides must be written in LaTeX and compiled to a PDF.
 
