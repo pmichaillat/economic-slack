@@ -4,7 +4,7 @@ This repository is the portal for the course "Economic Slack" taught by [Pascal 
 
 ## Course webpage
 
-The course material is hosted at https://pascalmichaillat.org/c2/.
+The course material is hosted at https://pascalmichaillat.org/w/.
 
 ## Portal content
 

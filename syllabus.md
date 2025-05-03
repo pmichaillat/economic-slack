@@ -17,7 +17,7 @@
 
 ## Course resources
 
-+ [Course material](https://pascalmichaillat.org/c2/)
++ [Course material](https://pascalmichaillat.org/w/)
 + [Course portal](https://github.com/pmichaillat/economic-slack)
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
 
@@ -67,25 +67,25 @@ This is a flipped course.
 
 At home, before each meeting, you will have to watch lecture videos and go over readings.
   
-+ Before Thursday 11 January: videos & main readings in [Introduction](https://pascalmichaillat.org/c2/#introduction)
-+ Before Tuesday 16 January: videos in [Overview of business-cycle models](https://pascalmichaillat.org/c2/#overview-of-business-cycle-models) and [Prevalence of slack and matching function](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
-+ Before Thursday 18 January: main readings in [Overview of business-cycle models](https://pascalmichaillat.org/c2/#overview-of-business-cycle-models) and [Prevalence of slack and matching function](https://pascalmichaillat.org/c2/#prevalence-of-slack-and-matching-function)
-+ Before Tuesday 23 January: videos in [Basic model of slack](https://pascalmichaillat.org/c2/#basic-model-of-slack)
-+ Before Thursday 25 January: main readings in [Basic model of slack](https://pascalmichaillat.org/c2/#basic-model-of-slack)
-+ Before Tuesday 30 January: videos in [Model of slack with income and wealth inequality](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality) and [Discussion of the solution concept](https://pascalmichaillat.org/c2/#discussion-of-the-solution-concept)
-+ Before Thursday 1 February: main readings in [Model of slack with income and wealth inequality](https://pascalmichaillat.org/c2/#model-of-slack-with-income-and-wealth-inequality) and [Discussion of the solution concept](https://pascalmichaillat.org/c2/#discussion-of-the-solution-concept)
-+ Before Tuesday 6 February: videos in [Price and wage rigidities](https://pascalmichaillat.org/c2/#price-and-wage-rigidities)
-+ Before Thursday 8 February: main readings in [Price and wage rigidities](https://pascalmichaillat.org/c2/#price-and-wage-rigidities)
-+ Before Tuesday 13 February: videos in [Model of slack with labor and product markets](https://pascalmichaillat.org/c2/#model-of-slack-with-labor-and-product-markets)
-+ Before Thursday 15 February: main readings in [Model of slack with labor and product markets](https://pascalmichaillat.org/c2/#model-of-slack-with-labor-and-product-markets)
-+ Before Tuesday 20 February: videos in  [Dynamic model of slack](https://pascalmichaillat.org/c2/#dynamic-model-of-slack)
-+ Before Thursday 22 February: main readings in  [Dynamic model of slack](https://pascalmichaillat.org/c2/#dynamic-model-of-slack)
-+ Before Tuesday 27 February: videos in [Social welfare, efficiency, and inefficiency](https://pascalmichaillat.org/c2/#social-welfare-efficiency-and-inefficiency)
-+ Before Thursday 29 February: main readings in [Social welfare, efficiency, and inefficiency](https://pascalmichaillat.org/c2/#social-welfare-efficiency-and-inefficiency)
-+ Before Tuesday 5 March: videos in [Optimal monetary policy over the business cycle](https://pascalmichaillat.org/c2/#optimal-monetary-policy-over-the-business-cycle)
-+ Before Thursday 7 March: main readings in [Optimal monetary policy over the business cycle](https://pascalmichaillat.org/c2/#optimal-monetary-policy-over-the-business-cycle)
-+ Before Tuesday 12 March: videos in [Optimal government spending over the business cycle](https://pascalmichaillat.org/c2/#optimal-government-spending-over-the-business-cycle)
-+ Before Thursday 14 March: main readings in [Optimal government spending over the business cycle](https://pascalmichaillat.org/c2/#optimal-government-spending-over-the-business-cycle)
++ Before Thursday 11 January: videos & main readings in [Introduction](https://pascalmichaillat.org/w/#introduction)
++ Before Tuesday 16 January: videos in [Overview of business-cycle models](https://pascalmichaillat.org/w/#overview-of-business-cycle-models) and [Prevalence of slack and matching function](https://pascalmichaillat.org/w/#prevalence-of-slack-and-matching-function)
++ Before Thursday 18 January: main readings in [Overview of business-cycle models](https://pascalmichaillat.org/w/#overview-of-business-cycle-models) and [Prevalence of slack and matching function](https://pascalmichaillat.org/w/#prevalence-of-slack-and-matching-function)
++ Before Tuesday 23 January: videos in [Basic model of slack](https://pascalmichaillat.org/w/#basic-model-of-slack)
++ Before Thursday 25 January: main readings in [Basic model of slack](https://pascalmichaillat.org/w/#basic-model-of-slack)
++ Before Tuesday 30 January: videos in [Model of slack with income and wealth inequality](https://pascalmichaillat.org/w/#model-of-slack-with-income-and-wealth-inequality) and [Discussion of the solution concept](https://pascalmichaillat.org/w/#discussion-of-the-solution-concept)
++ Before Thursday 1 February: main readings in [Model of slack with income and wealth inequality](https://pascalmichaillat.org/w/#model-of-slack-with-income-and-wealth-inequality) and [Discussion of the solution concept](https://pascalmichaillat.org/w/#discussion-of-the-solution-concept)
++ Before Tuesday 6 February: videos in [Price and wage rigidities](https://pascalmichaillat.org/w/#price-and-wage-rigidities)
++ Before Thursday 8 February: main readings in [Price and wage rigidities](https://pascalmichaillat.org/w/#price-and-wage-rigidities)
++ Before Tuesday 13 February: videos in [Model of slack with labor and product markets](https://pascalmichaillat.org/w/#model-of-slack-with-labor-and-product-markets)
++ Before Thursday 15 February: main readings in [Model of slack with labor and product markets](https://pascalmichaillat.org/w/#model-of-slack-with-labor-and-product-markets)
++ Before Tuesday 20 February: videos in  [Dynamic model of slack](https://pascalmichaillat.org/w/#dynamic-model-of-slack)
++ Before Thursday 22 February: main readings in  [Dynamic model of slack](https://pascalmichaillat.org/w/#dynamic-model-of-slack)
++ Before Tuesday 27 February: videos in [Social welfare, efficiency, and inefficiency](https://pascalmichaillat.org/w/#social-welfare-efficiency-and-inefficiency)
++ Before Thursday 29 February: main readings in [Social welfare, efficiency, and inefficiency](https://pascalmichaillat.org/w/#social-welfare-efficiency-and-inefficiency)
++ Before Tuesday 5 March: videos in [Optimal monetary policy over the business cycle](https://pascalmichaillat.org/w/#optimal-monetary-policy-over-the-business-cycle)
++ Before Thursday 7 March: main readings in [Optimal monetary policy over the business cycle](https://pascalmichaillat.org/w/#optimal-monetary-policy-over-the-business-cycle)
++ Before Tuesday 12 March: videos in [Optimal government spending over the business cycle](https://pascalmichaillat.org/w/#optimal-government-spending-over-the-business-cycle)
++ Before Thursday 14 March: main readings in [Optimal government spending over the business cycle](https://pascalmichaillat.org/w/#optimal-government-spending-over-the-business-cycle)
 
 The main readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do research in macroeconomics, you are encouraged to go over all the supplemental readings as well.
 
