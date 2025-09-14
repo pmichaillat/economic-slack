@@ -16,9 +16,9 @@ The course covers research topics related to economic slack, which comprises pro
 
 #### Course resources
 
-+ [Course material](https://pascalmichaillat.org/w/)
-+ [Lecture videos](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW)
 + [Course portal](https://github.com/pmichaillat/economic-slack)
++ [Lecture videos and readings](https://pascalmichaillat.org/w/)
++ [Lecture playlist](https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW)
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions)
 
 #### Switching to research mode
@@ -89,7 +89,7 @@ At home, you will also go over the following readings:
 + Before Tuesday 25 November: main readings in [Optimal monetary policy over the business cycle](https://pascalmichaillat.org/w/#optimal-monetary-policy-over-the-business-cycle)
 + Before Tuesday 2 December: main readings in [Optimal government spending over the business cycle](https://pascalmichaillat.org/w/#optimal-government-spending-over-the-business-cycle)
 
-The main readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research.
+The main readings cover important material on which the lectures are based. You should read them from beginning to end, reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided: they give additional theoretical results, empirical evidence, background, and may be useful for your research project.
 
 ---
 
@@ -122,28 +122,28 @@ Thursday class meetings will be devoted to research. Indeed, this is a research-
 
 A good research paper should do the following:
 
-+ Develop a well-posed research question
-+ Answer the research question using a combination of theory, numerical simulations, and empirical analysis
-+ Position the paper in the prior literature
+1. Develop a well-posed, original research question
+2. Answer the research question using a combination of theory, numerical simulations, and empirical analysis
+3. Position the paper in the prior literature
 
-More specifically, a good research paper should adhere to the following guidelines:
+Your research paper will be evaluated based on how well it accomplishes these three tasks. More specifically, a good research paper should adhere to the following guidelines:
 
-1. It should describe in details the research question you are answering, and explain why it is an original and interesting question.
+1. It should describe its research question, and explain why it is an original and interesting question.
 2. It should review the prior literature to explain how the paper advances that literature.
 3. It should describe the model, data, empirical strategy, and computational method used to answer the questions. 
 4. It should describe the results obtained in the analysis using diagrams, tables, and figures.
-5. It should discuss the implications of the current analysis, and explain how its limitations could be addressed in the future.
+5. It should discuss the implications of the analysis, and explain how its limitations could be addressed in the future.
 
-You should work on your research project on your own. However, you should feel free to discuss methods and literature, and to elicit feedback, from your peers.
+You should work on your research project on your own. However, you should feel free to discuss methods and literature with your peers and elicit their feedback. To get you started, [possible ideas for the research project](https://github.com/pmichaillat/economic-slack/blob/main/ideas.md) are presented in the course portal.
 
 #### Due dates
 
 + Thursday 16 October: presentation of project outline in class
 + Thursday 13 November: presentation of early results in class
 + Thursday 4 December: presentation of final results in class
-+ Thursday 11 December at noon: submission of final paper
++ Thursday 11 December: submission of final paper on GitHub
 
-#### Presentation format: project outline
+#### Presentation of project outline
 
 The project outline should be presented in 10 minutes with 5 slides.
 
@@ -157,7 +157,7 @@ It is fine to propose several possible research questions if you are unsure.
 
 Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/economic-slack/blob/main/github.md) before noon on the day of the presentation.
 
-#### Presentation format: early results
+#### Presentation of early results
 
 Early results should be presented in 10 minutes with 6 slides.
 
@@ -168,7 +168,7 @@ Early results should be presented in 10 minutes with 6 slides.
 
 Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/economic-slack/blob/main/github.md) before noon on the day of the presentation.
 
-#### Presentation format: final results
+#### Presentation of final results
 
 Final results should be presented in 10 minutes with 6 slides.
 
@@ -188,7 +188,7 @@ Your research paper should be short and adhere to the following guidelines:
 + Papers must be less than 6,000 words. The wordcount excludes the reference list.
 + Papers should contain no more than 5 exhibits (tables and figures). Individual exhibits are limited to one page each.
 + Papers must include an abstract of 150 or fewer words.
-+ Papers must be self-contained. Specifically, a reader should be able to follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. For empirical work, the main text should include relevant information about data sources, variable definitions and construction, the estimating equations, and any other information needed to understand and assess each exhibit in the main text. For theoretical work, proofs should be contained in the paper.
++ Papers must be self-contained. A reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting any appendix. 
 
 The research paper must be [written in LaTeX](#latex-resources) and compiled to a PDF. The paper should be [uploaded into your GitHub repository](https://github.com/pmichaillat/economic-slack/blob/main/github.md) before noon on the due date.
 
@@ -196,7 +196,7 @@ The research paper must be [written in LaTeX](#latex-resources) and compiled to 
 
 Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. Code and data should be [uploaded into your GitHub repository](https://github.com/pmichaillat/economic-slack/blob/main/github.md) at the same time as your research paper.
 
-The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code and data repository as a template: https://github.com/pmichaillat/feru.
+The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the [following code and data repository](https://github.com/pmichaillat/feru) as a template.
 
 ---
 
@@ -208,7 +208,7 @@ Your grade will be based on the quality of the research project and your partici
 + Presentation of project outline: 10 points.
 + Presentation of early results: 10 points.
 + Presentation of final results: 10 points.
-+ Final paper (including code & data): 40 points. The project will be evaluated based on quality of analysis, clarity, and originality.
++ Final paper (including code & data): 40 points.
 + Participation bonus: 10 points. This is a research-intensive course. As such, participation in class and on [GitHub's discussion forum](https://github.com/pmichaillat/economic-slack/discussions) is critical and will be rewarded with bonus points.
 
 Letter grades will be based on your total grade, with standard cutoffs.
@@ -217,28 +217,22 @@ Letter grades will be based on your total grade, with standard cutoffs.
 
 #### Writing resources
 
-There is no textbook for this course, but several books might be helpful to write your research paper.
+Several books might be helpful to write your research paper. First, a good research paper must have a good structure. A good reference on how to structure your paper is [*The Little Book of Research Writing*](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162) by V. Chaubey.
 
-First and foremost, a good research paper needs to have a good structure. A good reference on how to structure your paper is [The Little Book of Research Writing](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162) by V. Chaubey.
+Scientific papers involve an elements that does not appear in other writings but are fundamental to communicate scientific ideas: graphs. It is important to make clear, clean, and meaningful graphs. A great reference on how to create compelling graphs is [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi) by E.R. Tufte.
 
-Scientific papers involve an elements that does not appear in other writings but is fundamental to communicate scientific ideas: graphs. It is important to make clear, clean, and meaningful graphs. A great reference on how to create compelling graphs is [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by E.R. Tufte.
+Once your paper has a good structure and good graphs, a decent writing style helps readers navigate the paper. The canonical reference on English style is [*The Elements of Style*](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
 
-Once your paper has a good structure and good graphs,  a decent style helps readers navigate the paper. The canonical reference on English style is [The Elements of Style](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
-
-Whatever you write, it is important to follow the rules and conventions of the English language. The canonical manual—followed by most US journals—is the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). You should consult it if you have any question about English writing, rules, conventions, and style.
+Whatever you write, it is important to follow the rules and conventions of the English language. The canonical manual is the [*Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html). You should consult it if you have any question about English writing, rules, and conventions.
 
 #### LaTeX resources
 
-LaTeX is the best system to typeset scientific research. In particular, it allows to typeset mathematical expressions, insert tables and figures with results, and manage scientific references. This is why you are asked to write your presentation slides and research paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now.
-
-LaTeX templates are available on GitHub to help you write your presentations and research paper:
+LaTeX is the best system to typeset scientific research: it allows to typeset mathematical expressions, insert tables and figures with results, and manage references. This is why you are asked to write your slides and paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now. LaTeX templates are available on GitHub to get you started:
 
 + [LaTeX template for research paper](https://github.com/pmichaillat/latex-paper)
-+ [LaTeX template for research presentations](https://github.com/pmichaillat/latex-presentation)
++ [LaTeX template for academic presentations](https://github.com/pmichaillat/latex-presentation)
 
-These templates follow typographical best practices and have a minimalist design. You can also [use these LaTeX commands](https://github.com/pmichaillat/latex-math) in conjunction with the templates to obtain mathematical expressions that are more legible and easier to manipulate.
-
-If you are new to LaTeX, feel free [to use Overleaf](https://www.overleaf.com/edu/ucsantacruz), for which UCSC supplies professional accounts. Overleaf makes it easy to produce research paper and research presentations in LaTeX directly from your web browser. You can use the above templates with Overleaf.
+If you are new to LaTeX, [use Overleaf](https://www.overleaf.com/edu/ucsantacruz), for which UCSC supplies professional accounts. Overleaf makes it easy to produce papers and presentations in LaTeX directly from your web browser. You can use the above templates with Overleaf.
 
 --- 
 
