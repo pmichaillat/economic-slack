@@ -9,10 +9,13 @@ The course materials are available at https://pascalmichaillat.org/w/.
 ## Portal content
 
 + [Syllabus for Fall 2025](https://github.com/pmichaillat/economic-slack/blob/main/syllabus.md)
-+ [Book chapters](https://github.com/pmichaillat/economic-slack/tree/main/chapters) - The folder contains book chapters (in PDF) assigned as reading. These chapters may be hard to find otherwise.
++ [Presentation schedule for Fall 2025](https://github.com/pmichaillat/economic-slack/blob/main/schedule.md)
++ [Instructions for course submissions](https://github.com/pmichaillat/economic-slack/blob/main/github.md)
++ [Possible ideas for research papers](https://github.com/pmichaillat/economic-slack/blob/main/ideas.md)
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions) - This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course.
-+ [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources) - The folder contains additional course resources, including results on convexity and possible research ideas.
-+ [Presentations](https://github.com/pmichaillat/economic-slack/tree/main/presentations) - The folder contains student presentations given during the quarter, and some presentation examples.
++ [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources) - The folder contains additional course resources, including results on convexity.
++ [Reading material](https://github.com/pmichaillat/economic-slack/tree/main/readings) - This folder contains book chapters and articles that may be hard to find online.
++ [Presentation examples](https://github.com/pmichaillat/economic-slack/tree/main/presentations) - This folder contains examples of presentations.
 
 ## License
 
