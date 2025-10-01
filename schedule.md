@@ -15,14 +15,14 @@
 
 + [Summers (1986)](https://www.minneapolisfed.org/research/quarterly-review/some-skeptical-observations-on-real-business-cycle-theory) – Suyu
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – Jiacan
-+ [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – Kimia
++ [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – 
 + [Walker et al (2024)](https://doi.org/10.3386/w33055) – Saiganesh
 
 ---
 
 #### Week 3 - Tuesday 14 October
 
-+ [Michaillat and Saez (2015)](https://pascalmichaillat.org/3.pdf) – Bome
++ [Michaillat and Saez (2015)](https://pascalmichaillat.org/3.pdf) – 
 + [Diamond (1982)](https://www.jstor.org/stable/1837124) – Allegra
 + [Gourio and Rudanko (2014)](https://doi.org/10.1093/restud/rdu007) – Saiganesh
 + [Huo and Rios-Rull (2020)](https://doi.org/10.1257/mac.20180290) – Ananyo
@@ -39,9 +39,9 @@
 #### Week 5 - Tuesday 28 October
 
 + [Nakamura and Steinsson (2013)](https://doi.org/10.1146/annurev-economics-061109-080430) – Rongmon
-+ [Dickens et al (2007)](https://doi.org/10.1257/jep.21.2.195) – Bome
++ [Dickens et al (2007)](https://doi.org/10.1257/jep.21.2.195) – 
 + [Bewley (2005)](https://doi.org/10.7551/mitpress/4771.003.0017) – Ananyo
-+ [Fabiani at al (2006)](https://www.ijcb.org/journal/ijcb06q3a1.htm) – Kimia
++ [Fabiani at al (2006)](https://www.ijcb.org/journal/ijcb06q3a1.htm) – 
 
 ---
 
@@ -56,8 +56,8 @@
 #### Week 7 - Tuesday 11 November
 
 + [Michaillat and Saez (2024)](https://pascalmichaillat.org/15.pdf) – Allegra
-+ [Ball, Leigh, and Loungani (2017)](https://doi.org/10.1111/jmcb.12420) – Bome
-+ [Benigno and Eggertsson (2023)](https://doi.org/10.3386/w31197) – Kimia
++ [Ball, Leigh, and Loungani (2017)](https://doi.org/10.1111/jmcb.12420) – 
++ [Benigno and Eggertsson (2023)](https://doi.org/10.3386/w31197) –
 
 ---
 
@@ -78,6 +78,6 @@
 
 #### Week 10 - Tuesday 2 December
 
-+ [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – Kimia
++ [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – 
 + [Samuelson (1954)](https://doi.org/10.2307/1925895) – Rongmon
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Saiganesh
