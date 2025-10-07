@@ -43,6 +43,7 @@ This repository will contain all required submissions: presentations of readings
 + `/research_paper/` - Folder with your final research paper.
 + `/code_data/` - Folder with all scripts, notebooks, datasets, spreadsheets, or other code used in your research.
 + You can organize the repository directly on your computer, using the cloned version of the repository.
++ GitHub does not track empty folders, only files. To ensure that the folder structure exists in your repository before you place any files in it, place a dummy file named `.gitkeep` inside each empty folder. The dummy file will ensure that the otherwise-empty folders appear on GitHub.
 
 ---
 
