@@ -50,14 +50,11 @@
 + [Barro and Grossman (1971)](https://www.jstor.org/stable/1910543) –  Jiacan
 + [Michaillat (2012)](https://pascalmichaillat.org/1.pdf) – Saiganesh
 + [Wasmer and Weil (2004)](https://doi.org/10.1257/0002828042002525) – Suyu
++ [Michaillat and Saez (2024)](https://pascalmichaillat.org/15.pdf) – Allegra
 
 ---
 
-#### Week 7 - Tuesday 11 November
-
-+ [Michaillat and Saez (2024)](https://pascalmichaillat.org/15.pdf) – Allegra
-+ [Ball, Leigh, and Loungani (2017)](https://doi.org/10.1111/jmcb.12420) – 
-+ [Benigno and Eggertsson (2023)](https://doi.org/10.3386/w31197) –
+#### Week 7 - Tuesday 11 November - No class: academic holiday
 
 ---
 
