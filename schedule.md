@@ -70,11 +70,6 @@
 
 + [Bernanke and Blinder (1993)](https://www.jstor.org/stable/2117350) – Allegra
 + [Coibion (2012)](https://doi.org/10.1257/mac.4.2.1) – Suyu
-
----
-
-#### Week 10 - Tuesday 2 December
-
-+ [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – 
 + [Samuelson (1954)](https://doi.org/10.2307/1925895) – Rongmon
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Saiganesh
+
