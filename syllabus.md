@@ -2,6 +2,12 @@
 
 ---
 
+
+<img width="587" height="350" alt="Slack during the Great Recession" src="https://github.com/user-attachments/assets/28d759a9-693f-41ca-b241-66e7a8af53c5" />
+
+
+---
+
 #### Course description
 
 The course covers research topics related to economic slack, which comprises productive resources that are unused and production that is unsold. The course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course presents models of economic slack and discusses policies used to tackle slack. The course tries to answer several questions: 
